@@ -1,0 +1,1468 @@
+Stats thread started at 0.380007
+Adding extension module BinkMediaPlayer from BinkMedia_HoloLens to BinkMedia
+
+ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-AC53750F48EB5A2DFBA4B9B3EAD71C3E
+         Session CrashGUID >====================================================
+Loading VulkanPC ini files took 0.04 seconds
+Loading Mac ini files took 0.04 seconds
+Loading IOS ini files took 0.04 seconds
+Loading HoloLens ini files took 0.04 seconds
+Loading Android ini files took 0.04 seconds
+Loading Unix ini files took 0.05 seconds
+Loading TVOS ini files took 0.05 seconds
+Loading Windows ini files took 0.05 seconds
+Loading Linux ini files took 0.06 seconds
+Loading LinuxArm64 ini files took 0.06 seconds
+Mounting Engine plugin Bridge
+Mounting Engine plugin EnhancedInput
+Found config from plugin[EnhancedInput] Input
+Mounting Engine plugin FastBuildController
+Mounting Engine plugin TraceUtilities
+Mounting Engine plugin XGEController
+Mounting Engine plugin DumpGPUServices
+Mounting Engine plugin TextureFormatOodle
+Mounting Engine plugin PluginUtils
+Mounting Engine plugin RenderDocPlugin
+Mounting Engine plugin PropertyAccessNode
+Mounting Engine plugin UObjectPlugin
+Mounting Engine plugin TraceDataFilters
+Mounting Engine plugin BlendSpaceMotionAnalysis
+Mounting Engine plugin ActorLayerUtilities
+Mounting Engine plugin AndroidFileServer
+Mounting Engine plugin AndroidDeviceProfileSelector
+Mounting Engine plugin AssetTags
+Mounting Engine plugin CableComponent
+Mounting Engine plugin ChunkDownloader
+Mounting Engine plugin CustomMeshComponent
+Mounting Engine plugin ExampleDeviceProfileSelector
+Mounting Engine plugin GeometryProcessing
+Mounting Engine plugin GeometryCache
+Mounting Engine plugin GoogleCloudMessaging
+Mounting Engine plugin GooglePAD
+Mounting Engine plugin InputDebugging
+Found config from plugin[InputDebugging] Input
+Mounting Engine plugin LocationServicesBPLibrary
+Mounting Engine plugin MeshModelingToolset
+Mounting Engine plugin AndroidPermission
+Mounting Engine plugin MobilePatchingUtils
+Mounting Engine plugin ProceduralMeshComponent
+Mounting Engine plugin PropertyAccessEditor
+Mounting Engine plugin OodleNetwork
+Mounting Engine plugin WebMMoviePlayer
+Mounting Engine plugin AssetManagerEditor
+Mounting Engine plugin ChangelistReview
+Mounting Engine plugin CurveEditorTools
+Mounting Engine plugin EngineAssetDefinitions
+Mounting Engine plugin BlueprintHeaderView
+Mounting Engine plugin EditorScriptingUtilities
+Mounting Engine plugin GameplayTagsEditor
+Mounting Engine plugin GeometryMode
+Mounting Engine plugin MacGraphicsSwitching
+Mounting Engine plugin MobileLauncherProfileWizard
+Mounting Engine plugin ModelingToolsEditorMode
+Mounting Engine plugin PluginBrowser
+Mounting Engine plugin EditorDebugTools
+Mounting Engine plugin StylusInput
+Mounting Engine plugin OnlineBase
+Mounting Engine plugin WorldPartitionHLODUtilities
+Mounting Engine plugin GLTFExporter
+Mounting Engine plugin VariantManagerContent
+Mounting Engine plugin LevelSequenceEditor
+Mounting Engine plugin SequencerScripting
+Mounting Engine plugin BackChannel
+Mounting Engine plugin CharacterAI
+Mounting Engine plugin Dataflow
+Mounting Engine plugin GeometryFlow
+Mounting Engine plugin MeshLODToolset
+Mounting Engine plugin MeshModelingToolsetExp
+Mounting Engine plugin ProxyLODPlugin
+Mounting Engine plugin PlatformCrypto
+Mounting Engine plugin PythonScriptPlugin
+Mounting Engine plugin SkeletalReduction
+Mounting Engine plugin ToolPresets
+Mounting Engine plugin UVEditor
+Mounting Engine plugin Niagara
+Mounting Engine plugin LauncherChunkInstaller
+Mounting Engine plugin BinkMedia
+Mounting Engine plugin WebMMedia
+Mounting Engine plugin ContentBrowserClassDataSource
+Mounting Engine plugin ContentBrowserFileDataSource
+Mounting Engine plugin LightMixer
+Mounting Engine plugin ContentBrowserAssetDataSource
+Mounting Engine plugin ObjectMixer
+Mounting Project plugin GAComponent
+FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+FPackageName: Mount point added: '../../Plugins/TraceUtilities/Content/' mounted to '/TraceUtilities/'
+FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+FPackageName: Mount point added: '../../Plugins/Editor/BlueprintHeaderView/Content/' mounted to '/BlueprintHeaderView/'
+FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+FPackageName: Mount point added: '../../Plugins/Enterprise/GLTFExporter/Content/' mounted to '/GLTFExporter/'
+FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+FPackageName: Mount point added: '../../Plugins/Experimental/Dataflow/Content/' mounted to '/Dataflow/'
+FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+FPackageName: Mount point added: '../../Plugins/Experimental/UVEditor/Content/' mounted to '/UVEditor/'
+FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/LightMixer/Content/' mounted to '/LightMixer/'
+FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/ObjectMixer/Content/' mounted to '/ObjectMixer/'
+FPackageName: Mount point added: '../../../../../../Users/FranciscLegion/Desktop/MastersCoD/Plugins/UEtoGoogleAnalytics/Content/' mounted to '/GAComponent/'
+Applying CVar settings from Section [/Script/RenderDocPlugin.RenderDocPluginSettings] File [Engine]
+RenderDoc plugin will not be loaded. Use '-AttachRenderDoc' on the cmd line or enable 'renderdoc.AutoAttach' in the plugin settings.
+ExecutableName: UnrealEditor-Cmd.exe
+Build: ++UE5+Release-5.2-CL-26001984
+Engine Version: 5.2.1-26001984+++UE5+Release-5.2
+Compatible Engine Version: 5.2.0-25360045+++UE5+Release-5.2
+Net CL: 25360045
+OS: Windows 10 (22H2) [10.0.19045.4170] (), CPU: AMD Ryzen 7 5800H with Radeon Graphics         , GPU: NVIDIA GeForce RTX 3060 Laptop GPU
+Compiled (64-bit): Jun 15 2023 04:29:42
+Architecture: x64
+Compiled with Visual C++: 19.29.30151.00
+Build Configuration: Development
+Branch Name: ++UE5+Release-5.2
+Command Line:  C:\Users\FranciscLegion\Desktop\MastersCoD\MastersCoDiOS.uproject -run=Cook -TargetPlatform=Android_ASTC -unversioned -fileopenlog -abslog="C:\Program Files\Epic Games\UE_5.2\Engine\Programs\AutomationTool\Saved\Cook-2024.03.20-18.55.18.txt" -stdout -CrashForUAT -unattended -NoLogTimes -UTF8Output
+Base Directory: C:/Program Files/Epic Games/UE_5.2/Engine/Binaries/Win64/
+Allocator: Mimalloc
+Installed Engine Build: 1
+Number of dev versions registered: 35
+  Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+  Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+  Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+  Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+  Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+  Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+  Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+  Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+  Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+  Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+  Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+  Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+  Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+  Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+  Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+  Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+  Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+  Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+  Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+  FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 83
+  FortniteNC (5B4C06B7-2463-4AF8-805B-BF70CDF5D0DD): 10
+  FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 6
+  Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+  Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+  Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+  Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+  Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+  Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+  Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+  UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 104
+  UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 41
+  UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+  UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+  Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+  UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+Object subsystem initialized
+Set CVar [[con.DebugEarlyDefault:1]]
+CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+Set CVar [[r.setres:1280x720]]
+CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy variable created
+CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
+Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
+CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy variable created
+CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+Set CVar [[r.GPUCrashDebugging:0]]
+CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+Set CVar [[r.Mobile.ShadingPath:0]]
+Set CVar [[r.Mobile.SupportGPUScene:0]]
+Set CVar [[r.Mobile.AntiAliasing:1]]
+Set CVar [[r.Mobile.FloatPrecisionMode:0]]
+Set CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+Set CVar [[r.Mobile.VirtualTextures:0]]
+Set CVar [[r.DiscardUnusedQuality:0]]
+Set CVar [[r.Shaders.CompressionFormat:2]]
+Set CVar [[r.AllowOcclusionQueries:1]]
+Set CVar [[r.MinScreenRadiusForLights:0.030000]]
+Set CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+Set CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+Set CVar [[r.PrecomputedVisibilityWarning:0]]
+Set CVar [[r.TextureStreaming:1]]
+Set CVar [[Compat.UseDXT5NormalMaps:0]]
+Set CVar [[r.VirtualTextures:0]]
+Set CVar [[r.VT.EnableAutoImport:1]]
+Set CVar [[r.VirtualTexturedLightmaps:0]]
+Set CVar [[r.VT.AnisotropicFiltering:0]]
+CVar [[bEnableVirtualTextureOpacityMask:0]] deferred - dummy variable created
+Set CVar [[r.VT.TileSize:128]]
+Set CVar [[r.VT.TileBorderSize:4]]
+Set CVar [[r.vt.FeedbackFactor:16]]
+CVar [[WorkingColorSpaceChoice:sRGB]] deferred - dummy variable created
+CVar [[RedChromaticityCoordinate:(X=0.640000,Y=0.330000)]] deferred - dummy variable created
+CVar [[GreenChromaticityCoordinate:(X=0.300000,Y=0.600000)]] deferred - dummy variable created
+CVar [[BlueChromaticityCoordinate:(X=0.150000,Y=0.060000)]] deferred - dummy variable created
+CVar [[WhiteChromaticityCoordinate:(X=0.312700,Y=0.329000)]] deferred - dummy variable created
+Set CVar [[r.ClearCoatNormal:0]]
+Set CVar [[r.DynamicGlobalIlluminationMethod:1]]
+Set CVar [[r.ReflectionMethod:1]]
+Set CVar [[r.ReflectionCaptureResolution:128]]
+Set CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+Set CVar [[r.Lumen.HardwareRayTracing:0]]
+Set CVar [[r.Lumen.HardwareRayTracing.LightingMode:0]]
+Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.EnableForProject:0]]
+Set CVar [[r.Lumen.TraceMeshSDFs:1]]
+Set CVar [[r.Shadow.Virtual.Enable:1]]
+Set CVar [[r.RayTracing:0]]
+Set CVar [[r.RayTracing.Shadows:0]]
+Set CVar [[r.RayTracing.Skylight:0]]
+Set CVar [[r.RayTracing.UseTextureLod:0]]
+Set CVar [[r.PathTracing:1]]
+Set CVar [[r.GenerateMeshDistanceFields:1]]
+Set CVar [[r.DistanceFields.DefaultVoxelDensity:0.200000]]
+Set CVar [[r.Nanite.ProjectEnabled:1]]
+Set CVar [[r.AllowStaticLighting:1]]
+Set CVar [[r.NormalMapsForStaticLighting:0]]
+Set CVar [[r.ForwardShading:0]]
+Set CVar [[r.VertexFoggingForOpaque:1]]
+Set CVar [[r.SeparateTranslucency:0]]
+Set CVar [[r.TranslucentSortPolicy:0]]
+CVar [[TranslucentSortAxis:(X=0.000000,Y=-1.000000,Z=0.000000)]] deferred - dummy variable created
+Set CVar [[vr.VRS.HMDFixedFoveationLevel:0]]
+Set CVar [[vr.VRS.HMDFixedFoveationDynamic:0]]
+Set CVar [[r.CustomDepth:1]]
+Set CVar [[r.CustomDepthTemporalAAJitter:1]]
+Set CVar [[r.PostProcessing.PropagateAlpha:0]]
+Set CVar [[r.DefaultFeature.Bloom:0]]
+Set CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+Set CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+Set CVar [[r.DefaultFeature.AutoExposure:0]]
+Set CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+Set CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+Set CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+Set CVar [[r.DefaultFeature.MotionBlur:0]]
+Set CVar [[r.DefaultFeature.LensFlare:0]]
+Set CVar [[r.TemporalAA.Upsampling:1]]
+Set CVar [[r.AntiAliasingMethod:0]]
+Set CVar [[r.MSAACount:4]]
+Set CVar [[r.DefaultFeature.LightUnits:1]]
+Set CVar [[r.DefaultBackBufferPixelFormat:4]]
+Set CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+Set CVar [[r.StencilForLODDither:0]]
+Set CVar [[r.EarlyZPass:3]]
+Set CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+Set CVar [[r.Shadow.CSMCaching:0]]
+Set CVar [[r.DBuffer:1]]
+Set CVar [[r.ClearSceneMethod:1]]
+Set CVar [[r.VelocityOutputPass:1]]
+Set CVar [[r.Velocity.EnableVertexDeformation:2]]
+Set CVar [[r.SelectiveBasePassOutputs:0]]
+CVar [[bDefaultParticleCutouts:0]] deferred - dummy variable created
+Set CVar [[fx.GPUSimulationTextureSizeX:1024]]
+Set CVar [[fx.GPUSimulationTextureSizeY:1024]]
+Set CVar [[r.AllowGlobalClipPlane:0]]
+Set CVar [[r.GBufferFormat:1]]
+Set CVar [[r.MorphTarget.Mode:1]]
+Set CVar [[vr.InstancedStereo:0]]
+Set CVar [[r.MobileHDR:1]]
+Set CVar [[vr.MobileMultiView:0]]
+Set CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+Set CVar [[vr.RoundRobinOcclusion:0]]
+Set CVar [[r.MeshStreaming:0]]
+Set CVar [[r.HeterogeneousVolumes:1]]
+Set CVar [[r.WireframeCullThreshold:5.000000]]
+Set CVar [[r.SupportStationarySkylight:1]]
+Set CVar [[r.SupportLowQualityLightmaps:1]]
+Set CVar [[r.SupportPointLightWholeSceneShadows:1]]
+Set CVar [[r.SupportSkyAtmosphere:1]]
+Set CVar [[r.SupportSkyAtmosphereAffectsHeightFog:1]]
+Set CVar [[r.SupportCloudShadowOnForwardLitTranslucent:0]]
+Set CVar [[r.Shadow.TranslucentPerObject.ProjectEnabled:0]]
+Set CVar [[r.Water.SingleLayerWater.SupportCloudShadow:0]]
+Set CVar [[r.Substrate:0]]
+Set CVar [[r.Substrate.OpaqueMaterialRoughRefraction:0]]
+Set CVar [[r.Substrate.Debug.AdvancedVisualizationShaders:0]]
+Set CVar [[r.Material.RoughDiffuse:0]]
+Set CVar [[r.Material.EnergyConservation:0]]
+Set CVar [[r.OIT.SortedPixels:0]]
+Set CVar [[r.SkinCache.CompileShaders:0]]
+Set CVar [[r.SkinCache.SkipCompilingGPUSkinVF:0]]
+Set CVar [[r.SkinCache.DefaultBehavior:1]]
+Set CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+Set CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+Set CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+Set CVar [[r.Mobile.Forward.EnableLocalLights:1]]
+Set CVar [[r.Mobile.Forward.EnableClusteredReflections:0]]
+Set CVar [[r.Mobile.EnableNoPrecomputedLightingCSMShader:1]]
+Set CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+Set CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+Set CVar [[r.Mobile.EnableMovableSpotlightsShadow:0]]
+Set CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+Set CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+Set CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+Set CVar [[r.SupportReversedIndexBuffers:1]]
+Set CVar [[r.Mobile.AmbientOcclusion:0]]
+Set CVar [[r.GPUSkin.UnlimitedBoneInfluences:0]]
+Set CVar [[r.GPUSkin.UnlimitedBoneInfluencesThreshold:8]]
+CVar [[DefaultBoneInfluenceLimit:(Default=0,PerPlatform=())]] deferred - dummy variable created
+Set CVar [[r.Mobile.PlanarReflectionMode:0]]
+Set CVar [[r.Mobile.SupportsGen4TAA:1]]
+CVar [[bStreamSkeletalMeshLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+CVar [[bDiscardSkeletalMeshOptionalLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+CVar [[VisualizeCalibrationCustomMaterialPath:None]] deferred - dummy variable created
+Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+Set CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+Set CVar [[s.AsyncLoadingThreadEnabled:1]]
+Set CVar [[s.EventDrivenLoaderEnabled:1]]
+Set CVar [[s.WarnIfTimeLimitExceeded:0]]
+Set CVar [[s.TimeLimitExceededMultiplier:1.5]]
+Set CVar [[s.TimeLimitExceededMinTime:0.005]]
+Set CVar [[s.UseBackgroundLevelStreaming:1]]
+Set CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+Set CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+Set CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+Set CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+Set CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+Set CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+Set CVar [[s.FlushStreamingOnExit:1]]
+CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+Set CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+Set CVar [[gc.SizeOfPermanentObjectPool:0]]
+Set CVar [[gc.FlushStreamingOnGC:0]]
+Set CVar [[gc.NumRetriesBeforeForcingGC:10]]
+Set CVar [[gc.AllowParallelGC:1]]
+Set CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+Set CVar [[gc.MaxObjectsInEditor:25165824]]
+Set CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+Set CVar [[gc.CreateGCClusters:1]]
+Set CVar [[gc.MinGCClusterSize:5]]
+Set CVar [[gc.AssetClustreringEnabled:0]]
+Set CVar [[gc.ActorClusteringEnabled:0]]
+Set CVar [[gc.BlueprintClusteringEnabled:0]]
+Set CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+Set CVar [[gc.MultithreadedDestructionEnabled:1]]
+Set CVar [[gc.VerifyGCObjectNames:1]]
+Set CVar [[gc.VerifyUObjectsAreNotFGCObjects:0]]
+Set CVar [[gc.PendingKillEnabled:1]]
+Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.MaterialEditor.LWCTruncateMode]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+Set CVar [[r.SkeletalMeshLODBias:0]]
+Set CVar [[r.ViewDistanceScale:1.0]]
+Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+Set CVar [[r.FXAA.Quality:4]]
+Set CVar [[r.TemporalAA.Quality:2]]
+Set CVar [[r.TSR.History.R11G11B10:1]]
+Set CVar [[r.TSR.History.ScreenPercentage:200]]
+Set CVar [[r.TSR.History.UpdateQuality:3]]
+Set CVar [[r.TSR.History.GrandReprojection:0]]
+Set CVar [[r.TSR.ShadingRejection.Flickering:1]]
+CVar [[r.TSR.Velocity.Extrapolation:1]] deferred - dummy variable created
+Set CVar [[r.TSR.RejectionAntiAliasingQuality:2]]
+Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+Set CVar [[r.LightFunctionQuality:1]]
+Set CVar [[r.ShadowQuality:5]]
+Set CVar [[r.Shadow.CSM.MaxCascades:10]]
+Set CVar [[r.Shadow.MaxResolution:2048]]
+Set CVar [[r.Shadow.MaxCSMResolution:2048]]
+Set CVar [[r.Shadow.RadiusThreshold:0.01]]
+Set CVar [[r.Shadow.DistanceScale:1.0]]
+Set CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+Set CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+Set CVar [[r.DistanceFieldShadowing:1]]
+Set CVar [[r.VolumetricFog:1]]
+Set CVar [[r.VolumetricFog.GridPixelSize:8]]
+Set CVar [[r.VolumetricFog.GridSizeZ:128]]
+Set CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+Set CVar [[r.LightMaxDrawDistanceScale:1]]
+Set CVar [[r.CapsuleShadows:1]]
+Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:4096]]
+Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-1.5]]
+Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:8]]
+Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:4]]
+Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:8]]
+Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:4]]
+Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+Set CVar [[r.DistanceFieldAO:1]]
+Set CVar [[r.AOQuality:2]]
+Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+Set CVar [[r.LumenScene.Radiosity.ProbeSpacing:4]]
+Set CVar [[r.LumenScene.Radiosity.HemisphereProbeResolution:4]]
+Set CVar [[r.Lumen.TraceMeshSDFs.Allow:1]]
+Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:32]]
+Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.NumProbesToTraceBudget:300]]
+Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:16]]
+Set CVar [[r.Lumen.ScreenProbeGather.TracingOctahedronResolution:8]]
+Set CVar [[r.Lumen.ScreenProbeGather.IrradianceFormat:0]]
+Set CVar [[r.Lumen.ScreenProbeGather.StochasticInterpolation:0]]
+Set CVar [[r.Lumen.ScreenProbeGather.FullResolutionJitterWidth:1]]
+Set CVar [[r.Lumen.ScreenProbeGather.TwoSidedFoliageBackfaceDiffuse:1]]
+Set CVar [[r.Lumen.ScreenProbeGather.ScreenTraces.HZBTraversal.FullResDepth:1]]
+Set CVar [[r.Lumen.Reflections.MaxRoughnessToTraceForFoliage:0.4]]
+Set CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:32]]
+Set CVar [[r.Lumen.TranslucencyVolume.TraceFromVolume:1]]
+Set CVar [[r.Lumen.TranslucencyVolume.TracingOctahedronResolution:3]]
+Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.ProbeResolution:8]]
+Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.NumProbesToTraceBudget:200]]
+Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+Set CVar [[r.SSR.Quality:3]]
+Set CVar [[r.SSR.HalfResSceneColor:0]]
+Set CVar [[r.Lumen.Reflections.Allow:1]]
+Set CVar [[r.Lumen.Reflections.DownsampleFactor:1]]
+Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Allow:1]]
+Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Enable:0]]
+Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+Set CVar [[r.MotionBlurQuality:4]]
+Set CVar [[r.MotionBlur.HalfResGather:0]]
+Set CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+Set CVar [[r.AmbientOcclusionMaxQuality:100]]
+Set CVar [[r.AmbientOcclusionLevels:-1]]
+Set CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+Set CVar [[r.DepthOfFieldQuality:2]]
+Set CVar [[r.RenderTargetPoolMin:400]]
+Set CVar [[r.LensFlareQuality:2]]
+Set CVar [[r.SceneColorFringeQuality:1]]
+Set CVar [[r.EyeAdaptationQuality:2]]
+Set CVar [[r.BloomQuality:5]]
+Set CVar [[r.Bloom.ScreenPercentage:70.711]]
+Set CVar [[r.FastBlurThreshold:100]]
+Set CVar [[r.Upscale.Quality:3]]
+Set CVar [[r.Tonemapper.GrainQuantization:1]]
+Set CVar [[r.LightShaftQuality:1]]
+Set CVar [[r.Filter.SizeScale:1]]
+Set CVar [[r.Tonemapper.Quality:5]]
+Set CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+Set CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+Set CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+Set CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+Set CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+Set CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+Set CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+Set CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+Set CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+Set CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+Set CVar [[r.Streaming.MipBias:0]]
+Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+Set CVar [[r.Streaming.Boost:1]]
+Set CVar [[r.MaxAnisotropy:8]]
+Set CVar [[r.VT.MaxAnisotropy:8]]
+Set CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+Set CVar [[r.Streaming.PoolSize:1000]]
+Set CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+Set CVar [[r.TranslucencyLightingVolumeDim:64]]
+Set CVar [[r.RefractionQuality:2]]
+Set CVar [[r.SceneColorFormat:4]]
+Set CVar [[r.DetailMode:2]]
+Set CVar [[r.TranslucencyVolumeBlur:1]]
+Set CVar [[r.MaterialQualityLevel:1 ; High quality]]
+Set CVar [[r.SSS.Scale:1]]
+Set CVar [[r.SSS.SampleSet:2]]
+Set CVar [[r.SSS.Quality:1]]
+Set CVar [[r.SSS.HalfRes:0]]
+Set CVar [[r.SSGI.Quality:3]]
+Set CVar [[r.EmitterSpawnRateScale:1.0]]
+Set CVar [[r.ParticleLightQuality:2]]
+Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+Set CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+Set CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+Set CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+Set CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+CVar [[fx.Niagara.QualityLevel:3]] deferred - dummy variable created
+Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+Set CVar [[foliage.DensityScale:1.0]]
+Set CVar [[grass.DensityScale:1.0]]
+Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+Set CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+Set CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+Set CVar [[r.AnisotropicMaterials:1]]
+Selected Device Profile: [WindowsEditor]
+Platform has ~ 32 GB [34204610560 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+Going up to parent DeviceProfile [Windows]
+Going up to parent DeviceProfile []
+Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+Set CVar [[r.DumpShaderDebugInfo:2]]
+Set CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+Set CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+Applying CVar settings from Section [ConsoleVariables] File [Engine]
+Applying CVar settings from Section [ConsoleVariables] File [C:/Users/FranciscLegion/Desktop/MastersCoD/Saved/Config/WindowsEditor/Editor.ini]
+Computer: FRANCISCLEGION
+User: FranciscLegion
+CPU Page size=4096, Cores=8
+High frequency timer resolution =10.000000 MHz
+Memory total: Physical=31.9GB (32GB approx)
+Platform Memory Stats for WindowsEditor
+Process Physical Memory: 456.77 MB used, 456.77 MB peak
+Process Virtual Memory: 469.02 MB used, 469.02 MB peak
+Physical Memory: 16950.34 MB used,  15669.71 MB free, 32620.06 MB total
+Virtual Memory: 29859.65 MB used,  10170.29 MB free, 40029.94 MB total
+Metadata set : extradevelopmentmemorymb="0"
+Loaded Base TextureFormat: TextureFormatASTC
+Loaded Base TextureFormat: TextureFormatDXT
+Loaded Base TextureFormat: TextureFormatETC2
+Loaded Base TextureFormat: TextureFormatIntelISPCTexComp
+Loaded Base TextureFormat: TextureFormatUncompressed
+Oodle Texture TFO init; latest sdk version = 2.9.8
+Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+Oodle Texture loading DLL: oo2tex_win64_2.9.6.dll
+Oodle Texture loading DLL: oo2tex_win64_2.9.7.dll
+Oodle Texture loading DLL: oo2tex_win64_2.9.8.dll
+Loaded Base TextureFormat: TextureFormatOodle
+Loaded TargetPlatform 'Android'
+Loaded TargetPlatform 'Android_ASTC'
+Loaded TargetPlatform 'Android_DXT'
+Loaded TargetPlatform 'Android_ETC2'
+Loaded TargetPlatform 'AndroidClient'
+Loaded TargetPlatform 'Android_ASTCClient'
+Loaded TargetPlatform 'Android_DXTClient'
+Loaded TargetPlatform 'Android_ETC2Client'
+Loaded TargetPlatform 'Android_Multi'
+Loaded TargetPlatform 'Android_MultiClient'
+Loaded TargetPlatform 'HoloLens'
+Loaded TargetPlatform 'HoloLensClient'
+WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+Loaded TargetPlatform 'IOS'
+Loaded TargetPlatform 'IOSClient'
+Loaded TargetPlatform 'Linux'
+Loaded TargetPlatform 'LinuxEditor'
+Loaded TargetPlatform 'LinuxServer'
+Loaded TargetPlatform 'LinuxClient'
+Loaded TargetPlatform 'LinuxArm64'
+Loaded TargetPlatform 'LinuxArm64Server'
+Loaded TargetPlatform 'LinuxArm64Client'
+Loaded TargetPlatform 'TVOS'
+Loaded TargetPlatform 'TVOSClient'
+Loaded TargetPlatform 'Windows'
+Loaded TargetPlatform 'WindowsEditor'
+Loaded TargetPlatform 'WindowsServer'
+Loaded TargetPlatform 'WindowsClient'
+Building Assets For Android_ASTC
+Lib vorbis DLL was dynamically loaded.
+Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+Loaded format module AudioFormatADPCM
+  ADPCM
+  PCM
+Loaded format module AudioFormatBink
+  BINKA
+Loaded format module AudioFormatOgg
+  OGG
+Loaded format module AudioFormatOpus
+  OPUS
+Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+Loaded format module MetalShaderFormat
+  SF_METAL
+  SF_METAL_MRT
+  SF_METAL_TVOS
+  SF_METAL_MRT_TVOS
+  SF_METAL_SM5
+  SF_METAL_MACES3_1
+  SF_METAL_MRT_MAC
+Loaded format module ShaderFormatD3D
+  PCD3D_SM6
+  PCD3D_SM5
+  PCD3D_ES31
+  D3D_ES3_1_HOLOLENS
+Loaded format module ShaderFormatOpenGL
+  GLSL_150_ES31
+  GLSL_ES3_1_ANDROID
+Loaded format module ShaderFormatVectorVM
+  VVM_1_0
+Loaded format module VulkanShaderFormat
+  SF_VULKAN_SM5
+  SF_VULKAN_ES31_ANDROID
+  SF_VULKAN_ES31
+  SF_VULKAN_SM5_ANDROID
+WindowsPlatformFeatures enabled
+Physics initialised using underlying interface: Chaos
+Using OS detected language (en-US).
+Using OS detected locale (en-US).
+No specific localization for 'en-US' exists, so 'en' will be used for the language.
+Ray tracing is disabled. Reason: disabled through project setting (r.RayTracing=0).
+FDerivedDataBackendGraph: Pak pak cache file ../../../../../../Users/FranciscLegion/Desktop/MastersCoD/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+Unable to find inner node Pak for hierarchy Hierarchy.
+FDerivedDataBackendGraph: CompressedPak pak cache file ../../../../../../Users/FranciscLegion/Desktop/MastersCoD/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node CompressedPak for hierarchy Hierarchy.
+../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (2145 MiB)
+FDerivedDataBackendGraph: EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+Speed tests for C:/Users/FranciscLegion/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+Performance to C:/Users/FranciscLegion/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=833.35MBs, RandomWriteSpeed=48.90MBs. Assigned SpeedClass 'Local'
+Using Local data cache path C:/Users/FranciscLegion/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+Shared data cache path not found in *engine.ini, will not use an Shared cache.
+Unable to find inner node Shared for hierarchy Hierarchy.
+Cloud: Disabled because Host is set to 'None'
+Unable to find inner node Cloud for hierarchy Hierarchy.
+VirtualizationSystem name found in ini file: None
+FNullVirtualizationSystem mounted, virtualization will be disabled
+Guid format shader working directory is -3 characters bigger than the processId version (../../../../../../Users/FranciscLegion/Desktop/MastersCoD/Intermediate/Shaders/WorkingDirectory/33100/).
+Cleaned the shader compiler working directory 'C:/Users/FranciscLegion/AppData/Local/Temp/UnrealShaderWorkingDir/D50FC67C4F0641D9AA8C40A88A6146E5/'.
+Cannot use XGE Controller as Incredibuild is not installed on this machine.
+Using Local Shader Compiler with 13 workers.
+Compiling shader autogen file: ../../../../../../Users/FranciscLegion/Desktop/MastersCoD/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+Autogen file is unchanged, skipping write.
+FAssetRegistry took 0.0014 seconds to start up
+EditorDomain is Disabled
+Available device profiles:
+	[00000698A0A5CC00][000006989A24A800 52] GlobalDefaults, 
+	[00000698A0A5C800][00000698869CC800 52] Windows, 
+	[00000698A0A5C600][000006989A257800 52] WindowsEditor, 
+	[00000698A0A5C400][0000069886FD0000 52] WindowsServer, 
+	[00000698A0A5C000][00000698A0EE0000 52] WindowsClient, 
+	[00000698A0A5B600][00000698A0EE2800 52] IOS, 
+	[00000698A0A5BC00][00000698A0EE5000 52] iPadAir2, 
+	[00000698A0A5D000][00000698A0EE7800 52] IPadPro, 
+	[00000698A0A5D200][00000698A0EEA000 52] iPadAir3, 
+	[00000698A0A5D400][00000698A0EEC800 52] iPadAir4, 
+	[00000698A0A5D600][00000698A0EF0000 52] iPadAir5, 
+	[00000698A0A5D800][00000698A0EF2800 52] iPadMini4, 
+	[00000698A0A5DA00][00000698A0EF5000 52] iPadMini5, 
+	[00000698A0A5DC00][00000698A0EF7800 52] iPadMini6, 
+	[00000698A0A5DE00][00000698A0EFA000 52] iPhone6S, 
+	[00000698A0A5E000][00000698A0EFC800 52] iPhone7, 
+	[00000698A0A5E200][00000698A0F00000 52] iPodTouch7, 
+	[00000698A0A5E400][00000698A0F02800 52] iPhone6SPlus, 
+	[00000698A0A5E600][00000698A0F05000 52] iPhone7Plus, 
+	[00000698A0A5E800][00000698A0F07800 52] iPhoneSE, 
+	[00000698A0A5EA00][00000698A0F0A000 52] iPhone8, 
+	[00000698A0A5EC00][00000698A0F0C800 52] iPhone8Plus, 
+	[00000698A0A5EE00][00000698A0F40000 52] iPhoneX, 
+	[00000698A0A5F000][00000698A0F42800 52] iPhoneXS, 
+	[00000698A0A5F200][00000698A0F45000 52] iPhoneXSMax, 
+	[00000698A0A5F400][00000698A0F47800 52] iPhoneXR, 
+	[00000698A0A5F600][00000698A0F4A000 52] iPhone11, 
+	[00000698A0A5F800][00000698A0F4C800 52] iPhone11Pro, 
+	[00000698A0A5FA00][00000698A0F50000 52] iPhone11ProMax, 
+	[00000698A0A5FC00][00000698A0F52800 52] iPhoneSE2, 
+	[00000698A0A5FE00][00000698A0F55000 52] iPhone12Mini, 
+	[000006989F4BFE00][00000698A0F57800 52] iPhone12, 
+	[000006987D8BF200][00000698A0F5A000 52] iPhone12Pro, 
+	[00000698A0F60000][00000698A0F5C800 52] iPhone12ProMax, 
+	[00000698A0F60200][00000698A0F70000 52] iPhone13Mini, 
+	[00000698A0F60400][00000698A0F72800 52] iPhone13, 
+	[00000698A0F60600][00000698A0F75000 52] iPhone13Pro, 
+	[00000698A0F60800][00000698A0F77800 52] iPhone13ProMax, 
+	[00000698A0F60A00][00000698A0F7A000 52] iPhoneSE3, 
+	[00000698A0F60C00][00000698A0F7C800 52] iPhone14, 
+	[00000698A0F60E00][00000698A0F80000 52] iPhone14Plus, 
+	[00000698A0F61000][00000698A0F82800 52] iPhone14Pro, 
+	[00000698A0F61200][00000698A0F85000 52] iPhone14ProMax, 
+	[00000698A0F61400][00000698A0F87800 52] iPadPro105, 
+	[00000698A0F61600][00000698A0F8A000 52] iPadPro129, 
+	[00000698A0F61800][00000698A0F8C800 52] iPadPro97, 
+	[00000698A0F61A00][00000698A0ED0000 52] iPadPro2_129, 
+	[00000698A0F61C00][00000698A0ED2800 52] iPad5, 
+	[00000698A0F61E00][00000698A0ED5000 52] iPad6, 
+	[00000698A0F62000][00000698A0ED7800 52] iPad7, 
+	[00000698A0F62200][00000698A0EDA000 52] iPad8, 
+	[00000698A0F62400][00000698A0EDC800 52] iPad9, 
+	[00000698A0F62600][00000698A0F90000 52] iPad10, 
+	[00000698A0F62800][00000698A0F92800 52] iPadPro11, 
+	[00000698A0F62A00][00000698A0F95000 52] iPadPro2_11, 
+	[00000698A0F62C00][00000698A0F97800 52] iPadPro3_11, 
+	[00000698A0F62E00][00000698A0F9A000 52] iPadPro4_11, 
+	[00000698A0F63000][00000698A0F9C800 52] iPadPro3_129, 
+	[00000698A0F63200][00000698A0FA0000 52] iPadPro4_129, 
+	[00000698A0F63400][00000698A0FA2800 52] iPadPro5_129, 
+	[00000698A0F63600][00000698A0FA5000 52] iPadPro6_129, 
+	[00000698A0F63800][00000698A0FA7800 52] AppleTV, 
+	[00000698A0F63A00][00000698A0FAA000 52] AppleTV4K, 
+	[00000698A0F63C00][00000698A0FAC800 52] AppleTV2_4K, 
+	[00000698A0F63E00][00000698A0FB0000 52] TVOS, 
+	[00000698A0F64000][00000698A0FB2800 52] Mac, 
+	[00000698A0F64200][00000698A0FB5000 52] MacEditor, 
+	[00000698A0F64400][00000698A0FB7800 52] MacClient, 
+	[00000698A0F64600][00000698A0FBA000 52] MacServer, 
+	[00000698A0F64800][00000698A0FBC800 52] Linux, 
+	[00000698A0F64A00][00000698A0FC0000 52] LinuxEditor, 
+	[00000698A0F64C00][00000698A0FC2800 52] LinuxArm64Editor, 
+	[00000698A0F64E00][00000698A0FC5000 52] LinuxArm64, 
+	[00000698A0F65000][00000698A0FC7800 52] LinuxClient, 
+	[00000698A0F65200][00000698A0FCA000 52] LinuxArm64Client, 
+	[00000698A0F65400][00000698A0FCC800 52] LinuxServer, 
+	[00000698A0F65600][00000698A0FD0000 52] LinuxArm64Server, 
+	[00000698A0F65800][00000698A0FD2800 52] Android, 
+	[00000698A0F65A00][00000698A0FD5000 52] Android_Preview_OpenGL, 
+	[00000698A0F65C00][00000698A0FD7800 52] Android_Preview_Vulkan, 
+	[00000698A0F65E00][00000698A0FDA000 52] Android_Low, 
+	[00000698A0F66000][00000698A0FDC800 52] Android_Mid, 
+	[00000698A0F66200][00000698A0FE0000 52] Android_High, 
+	[00000698A0F66400][00000698A0FE2800 52] Android_Default, 
+	[00000698A0F66600][00000698A0FE5000 52] Android_Adreno4xx, 
+	[00000698A0F66800][00000698A0FE7800 52] Android_Adreno5xx_Low, 
+	[00000698A0F66A00][00000698A0FEA000 52] Android_Adreno5xx, 
+	[00000698A0F66C00][00000698A0FEC800 52] Android_Adreno6xx, 
+	[00000698A0F66E00][00000698A0FF0000 52] Android_Adreno6xx_Vulkan, 
+	[00000698A0F67000][00000698A0FF2800 52] Android_Adreno7xx, 
+	[00000698A0F67200][00000698A0FF5000 52] Android_Adreno7xx_Vulkan, 
+	[00000698A0F67400][00000698A0FF7800 52] Android_Mali_T6xx, 
+	[00000698A0F67600][00000698A0FFA000 52] Android_Mali_T7xx, 
+	[00000698A0F67800][00000698A0FFC800 52] Android_Mali_T8xx, 
+	[00000698A0F67A00][00000698A1190000 52] Android_Mali_G71, 
+	[00000698A0F67C00][00000698A1192800 52] Android_Mali_G72, 
+	[00000698A0F67E00][00000698A1195000 52] Android_Mali_G72_Vulkan, 
+	[00000698A0F68000][00000698A1197800 52] Android_Mali_G76, 
+	[00000698A0F68200][00000698A119A000 52] Android_Mali_G76_Vulkan, 
+	[00000698A0F68400][00000698A119C800 52] Android_Mali_G77, 
+	[00000698A0F68600][00000698A11A0000 52] Android_Mali_G77_Vulkan, 
+	[00000698A0F68800][00000698A11A2800 52] Android_Mali_G78, 
+	[00000698A0F68A00][00000698A11A5000 52] Android_Mali_G78_Vulkan, 
+	[00000698A0F68C00][00000698A11A7800 52] Android_Mali_G710, 
+	[00000698A0F68E00][00000698A11AA000 52] Android_Mali_G710_Vulkan, 
+	[00000698A0F69000][00000698A11AC800 52] Android_Mali_G7xx, 
+	[00000698A0F69200][00000698A11B0000 52] Android_Mali_G7xx_Vulkan, 
+	[00000698A0F69400][00000698A11B2800 52] Android_Xclipse_920, 
+	[00000698A0F69600][00000698A11B5000 52] Android_Xclipse_920_Vulkan, 
+	[00000698A0F69800][00000698A11B7800 52] Android_Vulkan_SM5, 
+	[00000698A0F69A00][00000698A11BA000 52] Android_PowerVR_G6xxx, 
+	[00000698A0F69E00][00000698A11BC800 52] Android_PowerVR_GT7xxx, 
+	[00000698A0F6A000][00000698A11D0000 52] Android_PowerVR_GE8xxx, 
+	[00000698A0F6A400][00000698A11D2800 52] Android_PowerVR_GM9xxx, 
+	[00000698A0F6A600][00000698A11D5000 52] Android_PowerVR_GM9xxx_Vulkan, 
+	[00000698A0F6A800][00000698A11D7800 52] Android_TegraK1, 
+	[00000698A0F6AA00][00000698A11DA000 52] Android_Unknown_Vulkan, 
+	[00000698A0F6AC00][00000698A11DC800 52] Oculus_Quest, 
+	[00000698A0F6AE00][00000698A11E0000 52] Oculus_Quest2, 
+	[00000698A0F6B000][00000698A11E2800 52] HoloLens, 
+Active device profile: [00000698A0A5C600][000006989A257800 52] WindowsEditor
+Metadata set : deviceprofile="WindowsEditor"
+Compiling shader autogen file: ../../../../../../Users/FranciscLegion/Desktop/MastersCoD/Intermediate/ShaderAutogen/VULKAN_ES3_1_ANDROID/AutogenShaderHeaders.ush
+Autogen file is unchanged, skipping write.
+Compiling shader autogen file: ../../../../../../Users/FranciscLegion/Desktop/MastersCoD/Intermediate/ShaderAutogen/OPENGL_ES3_1_ANDROID/AutogenShaderHeaders.ush
+Autogen file is unchanged, skipping write.
+Compiling shader autogen file: ../../../../../../Users/FranciscLegion/Desktop/MastersCoD/Intermediate/ShaderAutogen/PCD3D_ES3_1/AutogenShaderHeaders.ush
+Autogen file is unchanged, skipping write.
+Using QuadricMeshReduction for automatic static mesh reduction
+Using SkeletalMeshReduction for automatic skeletal mesh reduction
+Using ProxyLODMeshReduction for automatic mesh merging
+No distributed automatic mesh merging module available
+No distributed automatic mesh merging module available
+Border
+BreadcrumbButton
+Brushes.Title
+Default
+Icons.Save
+Icons.Toolbar.Settings
+ListView
+SoftwareCursor_CardinalCross
+SoftwareCursor_Grab
+TableView.DarkRow
+TableView.Row
+TreeView
+Using Python 3.9.7
+Niagara Debugger Client Initialized | Session: 6E4FEA99488CD9654D231596CEF49C57 | Instance: 6F56C2B0400B1FA181EE9D8B93F9D525 (FRANCISCLEGION-33100).
+UAndroidPermissionCallbackProxy::GetInstance
+Loaded 0 collections in 0.001847 seconds
+Scanning file cache for directory 'C:/Users/FranciscLegion/Desktop/MastersCoD/Saved/Collections/' took 0.00s
+Scanning file cache for directory 'C:/Users/FranciscLegion/Desktop/MastersCoD/Content/Developers/FranciscLegion/Collections/' took 0.00s
+Scanning file cache for directory 'C:/Users/FranciscLegion/Desktop/MastersCoD/Content/Collections/' took 0.00s
+Using libcurl 7.83.1
+ - built for Windows
+ - supports SSL with OpenSSL/1.1.1n
+ - supports HTTP deflate (compression) using libz 1.2.12
+ - other features:
+     CURL_VERSION_SSL
+     CURL_VERSION_LIBZ
+     CURL_VERSION_IPV6
+     CURL_VERSION_ASYNCHDNS
+     CURL_VERSION_LARGEFILE
+ CurlRequestOptions (configurable via config and command line):
+ - bVerifyPeer = true  - Libcurl will verify peer certificate
+ - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+ - bDontReuseConnections = false  - Libcurl will reuse connections
+ - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+ - LocalHostAddr = Default
+ - BufferSize = 65536
+26096 objects as part of root set at end of initial load.
+7545928 out of 0 bytes used by permanent object pool.
+CloseDisregardForGC: 0/0 objects in disregard for GC pool
+Executing Class /Script/UnrealEd.CookCommandlet
+Initializing Editor Engine...
+Initializing Engine...
+UGameplayTagsManager::InitializeManager -  0.000 s
+Initializing FReadOnlyCVARCache
+FPhysicsSolverBase::AsyncDt:-1.000000
+Creating AISystem for world Untitled
+Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+Texture streaming: Disabled
+Metadata set : largeworldcoordinates="1"
+Initializing Editor Engine Completed
+LevelSequenceEditor subsystem initialized.
+CookProcessCount=1. CookMultiprocess is disabled and the cooker is running as a single process.
+CookSettings for Memory:
+	MemoryMaxUsedVirtual 0MiB
+	MemoryMaxUsedPhysical 0MiB
+	MemoryMinFreeVirtual 2048MiB
+	MemoryMinFreePhysical 2048MiB
+	MemoryTriggerGCAtPressureLevel None
+	UseSoftGC true (5/10)
+Waiting for Asset Registry
+AssetRegistryGather time 0.1100s: AssetDataDiscovery 0.0386s, AssetDataGather 0.0408s, StoreResults 0.0307s.
+Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+Clearing all cooked content for platform Android_ASTC
+Sandbox cleanup took 0.042 seconds for platforms Android_ASTC
+Compiling global changed shaders for platform 'Android_ASTC'
+Going up to parent DeviceProfile []
+Going up to parent DeviceProfile []
+Going up to parent DeviceProfile []
+Going up to parent DeviceProfile []
+Going up to parent DeviceProfile []
+Going up to parent DeviceProfile []
+Going up to parent DeviceProfile []
+Going up to parent DeviceProfile []
+
+Shader Library 'Global' (SF_VULKAN_ES31_ANDROID-VULKAN_ES3_1_ANDROID) Stats:
+=================
+Assets: 1, Unique Shadermaps: 97 (9700.00%)
+Total Shaders: 694, Unique Shaders: 689 (99.28%)
+Total Shader Size: 1.35mb, Unique Shaders Size: 1.35mb (99.85%)
+=== Extended info:
+Minimum number of shaders in shadermap: 1
+Median number of shaders in shadermap: 3
+Maximum number of shaders in shadermap: 55
+Number of shadermaps referencing top 10 most shared shaders:
+    3, 2, 2, 2, 1, 1, 1, 1, 1, 1
+Textual dump saved to '../../../../../../Users/FranciscLegion/Desktop/MastersCoD/Saved/Shaders/SF_VULKAN_ES31_ANDROID-VULKAN_ES3_1_ANDROID/ShaderDebug-Global-SF_VULKAN_ES31_ANDROID-VULKAN_ES3_1_ANDROID/Dump.txt'
+=================
+
+Shader Library 'Global' (GLSL_ES3_1_ANDROID-OPENGL_ES3_1_ANDROID) Stats:
+=================
+Assets: 1, Unique Shadermaps: 97 (9700.00%)
+Total Shaders: 858, Unique Shaders: 858 (100.00%)
+Total Shader Size: 1.32mb, Unique Shaders Size: 1.32mb (100.00%)
+=== Extended info:
+Minimum number of shaders in shadermap: 1
+Median number of shaders in shadermap: 3
+Maximum number of shaders in shadermap: 69
+Number of shadermaps referencing top 10 most shared shaders:
+    1, 1, 1, 1, 1, 1, 1, 1, 1, 1
+Textual dump saved to '../../../../../../Users/FranciscLegion/Desktop/MastersCoD/Saved/Shaders/GLSL_ES3_1_ANDROID-OPENGL_ES3_1_ANDROID/ShaderDebug-Global-GLSL_ES3_1_ANDROID-OPENGL_ES3_1_ANDROID/Dump.txt'
+=================
+Searching using wildcard: '../../../Engine/Content/*.uasset'
+Searching using wildcard: '../../../../../../Users/FranciscLegion/Desktop/MastersCoD/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Bridge/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/TraceUtilities/Content/*.uasset'
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/2D/Paper2D/Content' is not mounted. Skipping it.
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Animation/IKRig/Content' is not mounted. Skipping it.
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Animation/ControlRigSpline/Content' is not mounted. Skipping it.
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Animation/ControlRig/Content' is not mounted. Skipping it.
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/VirtualProduction/Takes/Content' is not mounted. Skipping it.
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Enterprise/DatasmithContent/Content' is not mounted. Skipping it.
+Searching using wildcard: '../../../Engine/Plugins/Enterprise/GLTFExporter/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/FX/Niagara/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Editor/BlueprintHeaderView/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Editor/GeometryMode/Content/*.uasset'
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Editor/GLTFImporter/Content' is not mounted. Skipping it.
+Searching using wildcard: '../../../Engine/Plugins/Editor/ModelingToolsEditorMode/Content/*.uasset'
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Editor/SpeedTreeImporter/Content' is not mounted. Skipping it.
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Media/MediaCompositing/Content' is not mounted. Skipping it.
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Media/MediaPlate/Content' is not mounted. Skipping it.
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Developer/AnimationSharing/Content' is not mounted. Skipping it.
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Interchange/Runtime/Content' is not mounted. Skipping it.
+Searching using wildcard: '../../../Engine/Plugins/MovieScene/SequencerScripting/Content/*.uasset'
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Runtime/AudioSynesthesia/Content' is not mounted. Skipping it.
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Runtime/AudioWidgets/Content' is not mounted. Skipping it.
+Searching using wildcard: '../../../Engine/Plugins/Runtime/GeometryProcessing/Content/*.uasset'
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Runtime/Metasound/Content' is not mounted. Skipping it.
+Searching using wildcard: '../../../Engine/Plugins/Runtime/MeshModelingToolset/Content/*.uasset'
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Runtime/ResonanceAudio/Content' is not mounted. Skipping it.
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Runtime/Synthesis/Content' is not mounted. Skipping it.
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Runtime/WaveTable/Content' is not mounted. Skipping it.
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Experimental/ChaosCaching/Content' is not mounted. Skipping it.
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Experimental/ChaosNiagara/Content' is not mounted. Skipping it.
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is not mounted. Skipping it.
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Experimental/ChaosClothEditor/Content' is not mounted. Skipping it.
+Searching using wildcard: '../../../Engine/Plugins/Experimental/Dataflow/Content/*.uasset'
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Experimental/FullBodyIK/Content' is not mounted. Skipping it.
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is not mounted. Skipping it.
+Searching using wildcard: '../../../Engine/Plugins/Experimental/GeometryFlow/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Experimental/MeshModelingToolsetExp/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Experimental/MeshLODToolset/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Experimental/PythonScriptPlugin/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Experimental/UVEditor/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Editor/ObjectMixer/LightMixer/Content/*.uasset'
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Marketplace/UEtoGoogleAnalytics/Content' is not mounted. Skipping it.
+Engine.ini:[Core.System]:Paths entry '../../../../../../Users/FranciscLegion/Documents/GitHub/MastersCoD/Plugins/UEtoGoogleAnalytics/Content' is not mounted. Skipping it.
+Searching using wildcard: '../../../../../../Users/FranciscLegion/Desktop/MastersCoD/Plugins/UEtoGoogleAnalytics/Content/*.uasset'
+Searching using wildcard: 'C:/Users/FranciscLegion/Desktop/MastersCoD/Plugins/UEtoGoogleAnalytics/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Content/*.umap'
+Searching using wildcard: '../../../../../../Users/FranciscLegion/Desktop/MastersCoD/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Bridge/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/TraceUtilities/Content/*.umap'
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/2D/Paper2D/Content' is not mounted. Skipping it.
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Animation/IKRig/Content' is not mounted. Skipping it.
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Animation/ControlRigSpline/Content' is not mounted. Skipping it.
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Animation/ControlRig/Content' is not mounted. Skipping it.
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/VirtualProduction/Takes/Content' is not mounted. Skipping it.
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Enterprise/DatasmithContent/Content' is not mounted. Skipping it.
+Searching using wildcard: '../../../Engine/Plugins/Enterprise/GLTFExporter/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/FX/Niagara/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Editor/BlueprintHeaderView/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Editor/GeometryMode/Content/*.umap'
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Editor/GLTFImporter/Content' is not mounted. Skipping it.
+Searching using wildcard: '../../../Engine/Plugins/Editor/ModelingToolsEditorMode/Content/*.umap'
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Editor/SpeedTreeImporter/Content' is not mounted. Skipping it.
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Media/MediaCompositing/Content' is not mounted. Skipping it.
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Media/MediaPlate/Content' is not mounted. Skipping it.
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Developer/AnimationSharing/Content' is not mounted. Skipping it.
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Interchange/Runtime/Content' is not mounted. Skipping it.
+Searching using wildcard: '../../../Engine/Plugins/MovieScene/SequencerScripting/Content/*.umap'
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Runtime/AudioSynesthesia/Content' is not mounted. Skipping it.
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Runtime/AudioWidgets/Content' is not mounted. Skipping it.
+Searching using wildcard: '../../../Engine/Plugins/Runtime/GeometryProcessing/Content/*.umap'
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Runtime/Metasound/Content' is not mounted. Skipping it.
+Searching using wildcard: '../../../Engine/Plugins/Runtime/MeshModelingToolset/Content/*.umap'
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Runtime/ResonanceAudio/Content' is not mounted. Skipping it.
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Runtime/Synthesis/Content' is not mounted. Skipping it.
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Runtime/WaveTable/Content' is not mounted. Skipping it.
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Experimental/ChaosCaching/Content' is not mounted. Skipping it.
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Experimental/ChaosNiagara/Content' is not mounted. Skipping it.
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is not mounted. Skipping it.
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Experimental/ChaosClothEditor/Content' is not mounted. Skipping it.
+Searching using wildcard: '../../../Engine/Plugins/Experimental/Dataflow/Content/*.umap'
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Experimental/FullBodyIK/Content' is not mounted. Skipping it.
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is not mounted. Skipping it.
+Searching using wildcard: '../../../Engine/Plugins/Experimental/GeometryFlow/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Experimental/MeshModelingToolsetExp/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Experimental/MeshLODToolset/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Experimental/PythonScriptPlugin/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Experimental/UVEditor/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Editor/ObjectMixer/LightMixer/Content/*.umap'
+Engine.ini:[Core.System]:Paths entry '../../../Engine/Plugins/Marketplace/UEtoGoogleAnalytics/Content' is not mounted. Skipping it.
+Engine.ini:[Core.System]:Paths entry '../../../../../../Users/FranciscLegion/Documents/GitHub/MastersCoD/Plugins/UEtoGoogleAnalytics/Content' is not mounted. Skipping it.
+Searching using wildcard: '../../../../../../Users/FranciscLegion/Desktop/MastersCoD/Plugins/UEtoGoogleAnalytics/Content/*.umap'
+Searching using wildcard: 'C:/Users/FranciscLegion/Desktop/MastersCoD/Plugins/UEtoGoogleAnalytics/Content/*.umap'
+Unable to generate long package name, /Interchange/Pipelines/DefaultSceneLevelPipeline. Input '/Interchange/Pipelines/DefaultSceneLevelPipeline' is not a child of an existing mount point.
+Unable to generate long package name, /Interchange/Pipelines/DefaultSceneAssetsPipeline. Input '/Interchange/Pipelines/DefaultSceneAssetsPipeline' is not a child of an existing mount point.
+Unable to generate long package name, /Interchange/Pipelines/DefaultTexturePipeline. Input '/Interchange/Pipelines/DefaultTexturePipeline' is not a child of an existing mount point.
+Unable to generate long package name, /Interchange/Pipelines/DefaultMaterialPipeline. Input '/Interchange/Pipelines/DefaultMaterialPipeline' is not a child of an existing mount point.
+Unable to generate long package name, /Interchange/Pipelines/DefaultAssetsPipeline. Input '/Interchange/Pipelines/DefaultAssetsPipeline' is not a child of an existing mount point.
+Unable to find package for cooking /Game/TopDown/Maps/._StoringLevel. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/Y8/._0EEHID123N6GUWI9ELDEQS. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/UJ/._4NR8ENT1PXOIKEMFJ6SXGM. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/8V/._EAJQ8C9O8JTZ4ULSW0ZWKI. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/61/._B6TS27T3XNVOSY9ZCP7RQ5. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/Z0/._ZAND8D8V8QLAUZXUV9O8OV. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/PA/._ODYZH9HFZ9I5LKPQSKW3OB. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/OZ/._MDKQP5Q8013F69O96APPWY. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/M0/._GST6VDATBZE87R7UCEZ0OF. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/D/DW/._3CHRB3VN4OF28D176MI7OC. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/C/XZ/._CCRC7NGIA9OZ7UE4LSFDT2. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/VI/._ZINBPWGP9JAO4L8LHO07L8. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/U3/._HAVECZ9OHAT50V5VF2TU1N. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/M5/._KJ80TIV2DXZFT3ILD575WZ. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/H0/._FDRE7TFULP3387PWLBDSRZ. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/9Q/._GK7BWC3MJ5FA7F38CW44UK. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/8Y/._UPILDNW838I5O1JO2G91IQ. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/72/._PR1QS01SW5BWFPFZ9C79RF. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/JG/._EK6M0ZAF924VHYYLA91T8X. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/4N/._BMX6IUKBVR30FDIKM05FEJ. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/Y4/._3TLUSMUV8C9DL0VU2F31B4. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/PL/._N7D4R5CFP5NE5LSZYTY9F0. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/HG/._92ATS0JLWGMWQ3L7A6RSDB. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/GO/._Z5PD5G21OPSWOE3L7OZVCO. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/CF/._36MMYLTB1KU642NW19KHYB. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/87/._8SWK4OUQ9SIUK4PTENGYV0. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/MX/._ELBZAE80FMLVA55X1U5BGV. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/1I/._WEGCT2TN9FL82FPL5YU304. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/WX/._Z03ZMQ7BFXFF85CUY8VKSA. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/TN/._NLZ7S84Y54UV9PLX43WLGQ. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/FQ/._3P4KQSMSYRZ5GS1ZN9CE7W. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/C7/._4ER5KB0PMWTEST71E2H8XP. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/1Q/._LKI3TYLXT8N5KDTBQV9ZW5. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/YQ/._4ONX9SBSUFX9X4XZP4EBA4. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/GW/._4NK3F3SAGKZ1JFGIK4JH46. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/BB/._TI0R21WNESPEUGPVZVUCXY. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/7G/._TE77DHW6WWH1YFC8GILU0Z. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/25/._8HX1A8CH950E58AUDNY7Y8. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/SS/._S32WDAV2R5SRXGNDTAP6NW. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/SC/._EJ18XV3DNE83AW7UCPRHYQ. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/4/NH/._2QASP6NCQKE0207F3N8ULB. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/3/ZQ/._BSGMUC9GZ6ODKE6MNQQVVX. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/3/UG/._4VT8XS5ZK1LM16XYNWB3RV. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/3/OM/._VN0LZOJ3B1SNMCYQ3YF80E. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/3/AT/._1TK0GTL3O3SCES1TAV1NBN. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/UI/._0A6HD7JVE9OIZWDBVMO7PC. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/OQ/._C6BEJRY5EVJF23C25VLR1J. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/KF/._0MKR5U9MVLR9I3KURZM6O2. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/D9/._IDZ0ZXPQP4XR3L9KQUC93H. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/6Y/._SBP1UY98RDI0E5LAMEINOY. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/XE/._8YCL2Y4AGADDIRO2IWRBIJ. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/WM/._EHOX3YPZ8BWS13D7E6IFN2. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/VV/._ACPGZ6WDJACOS1K08R9GSN. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/QS/._8AKCSH4RXXQHHQMCR8GO6C. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/MB/._J5WHCOZ4GU1YICRISB3DL6. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/UIElements/UIElements/Storing/._Health75Final. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/UIElements/UIElements/Storing/._Health50Final. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/UIElements/UIElements/Storing/._Health25Final. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/UIElements/UIElements/Storing/._Health100Final. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/UIElements/UIElements/Storing/._costumizationwheelAsset_43. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/UIElements/UIElements/Storing/._75HealthBrown. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/UIElements/UIElements/Storing/._50HealthBrown. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/UIElements/UIElements/Storing/._25HealthBrown. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/UIElements/UIElements/Storing/._100HealthBrown. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/UIElements/StoringUI/._WBP_AddScore. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/UIElements/SlicingUI/._WBP_Timer. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/UIElements/._WBP_XPBar. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/UIElements/._WBP_Recipe. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/UIElements/._WBP_LevelCompletedTesting. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/UIElements/._WBP_LevelCompletedOLD. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/UIElements/._WBP_LevelCompleted. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/UIElements/._WBP_Expiry. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/UIElements/._WBP_CommonUI. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/UIElements/._setaAsset_414x-8. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/UIElements/._hatfinalAsset_24. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/UIElements/._ChefHighResShadow. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/UIElements/._ChefHighResNoShadow. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/UIElements/._chefecroppedAsset_42. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/TopDown/Maps/_GENERATED/FranciscLegion/._Chair. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/TopDown/Maps/_GENERATED/dsi/._PlaneCutOtherPart_24BED98C. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/TopDown/Maps/_GENERATED/dsi/._Chair. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/TopDown/Maps/_GENERATED/dsi/._Box_81542E3F. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/TopDown/Maps/_GENERATED/dsi/._Box_3EC017E6. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/TopDown/Maps/_GENERATED/dsi/._Boolean_B61CC274. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/TopDown/Maps/_GENERATED/dsi/._Boolean_41E1AE33. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/TopDown/Blueprints/._BP_MainGameInstance. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/Materials/._MI_BrownWalls. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/LevelsParameters/Storing/Structures/._Storing_Manager. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/LevelsParameters/Storing/ArrowColors/._MI_ArrowBrown. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/LevelsParameters/Storing/._BP_StoringZone. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/LevelsParameters/Storing/._BP_StoringArrow. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/LevelsParameters/Storing/._BP_StoredFood. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/LevelsParameters/Storing/._BP_SelectArea. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/LevelsParameters/SlicingTesting/UnrealExample/._SliceGamePawn. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/LevelsParameters/SlicingTesting/Structures/DataAssets/._SliceOnionData. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/LevelsParameters/SlicingTesting/Structures/DataAssets/._SliceGarlicData. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/LevelsParameters/SlicingTesting/Structures/._Slicing_Manager. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/LevelsParameters/SlicingTesting/Structures/._SlicedFoodToSpawnDataTable. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/LevelsParameters/SlicingTesting/Structures/._SlicedFoodToSpawn. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/LevelsParameters/SlicingTesting/._BP_SelectAreaSlicing. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/LevelsParameters/Customization/._Customization_Manager. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/LevelsParameters/._MainHUB_Manager. Instigator: { FullDepotSearch }.
+Unable to find package for cooking /Game/LevelPrototyping/Meshes/._SM_Cube. Instigator: { FullDepotSearch }.
+Discovering localized assets for cultures: en, pt
+Cooked packages 0 Packages Remain 2112 Total 2112
+Cook Diagnostics: OpenFileHandles=130, VirtualMemory=971MiB
+Garbage collection triggered (Soft). Triggered by conditions:
+  CookSettings.bUseSoftGC: Available physical memory 15504MiB is less than the current target for SoftGC 16310MiB.
+GarbageCollection... (Soft GC)
+Compacting FUObjectHashTables data took   0.42ms
+GarbageCollection Results:
+	Type: Soft
+	NumObjects:
+		Capacity:           25231360
+		Before GC:             27359
+		After GC:              27353
+		Freed by GC:               6
+	Virtual Memory:
+		Before GC:              1020 MB
+		After GC:               1023 MB
+		Freed by GC:              -2 MB
+
+Soft Garbage Collect diagnostics are not displayed because llm is disabled. Run with -llm or -trace=memtag to see diagnostics.
+Texture Encode Speed: Final (cook).
+Processed 21 localized package path(s) for 1 prioritized culture(s) in 0.004281 seconds
+UsePackageTrailer: 'true'
+Going up to parent DeviceProfile []
+Going up to parent DeviceProfile []
+Going up to parent DeviceProfile []
+Going up to parent DeviceProfile []
+/Engine/EngineMaterials/Black_1x1_EXR_Texture_VT.Black_1x1_EXR_Texture_VT is marked for virtual streaming but virtual texture streaming is not available.
+/Engine/EngineMaterials/Black_1x1_EXR_Texture_VT.Black_1x1_EXR_Texture_VT is marked for virtual streaming but virtual texture streaming is not available.
+/Engine/EngineMaterials/BaseFlattenNormalMap_VT.BaseFlattenNormalMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+/Engine/EngineMaterials/BaseFlattenNormalMap_VT.BaseFlattenNormalMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+/Engine/EngineMaterials/BaseFlattenLinearColor_VT.BaseFlattenLinearColor_VT is marked for virtual streaming but virtual texture streaming is not available.
+/Engine/EngineMaterials/BaseFlattenLinearColor_VT.BaseFlattenLinearColor_VT is marked for virtual streaming but virtual texture streaming is not available.
+/Engine/EngineMaterials/BaseFlattenGrayscaleMap_VT.BaseFlattenGrayscaleMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+/Engine/EngineMaterials/BaseFlattenGrayscaleMap_VT.BaseFlattenGrayscaleMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+/Engine/EngineMaterials/BaseFlattenEmissiveMap_VT.BaseFlattenEmissiveMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+/Engine/EngineMaterials/BaseFlattenEmissiveMap_VT.BaseFlattenEmissiveMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+/Engine/EngineMaterials/BaseFlattenDiffuseMap_VT.BaseFlattenDiffuseMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+/Engine/EngineMaterials/BaseFlattenDiffuseMap_VT.BaseFlattenDiffuseMap_VT is marked for virtual streaming but virtual texture streaming is not available.
+[AssetLog] C:\Users\FranciscLegion\Desktop\MastersCoD\Content\TopDown\Maps\_GENERATED\FranciscLegion\BackArrow.uasset: Failed to load '/Game/UIElements/M_BackArrow': Can't find file.
+[AssetLog] C:\Users\FranciscLegion\Desktop\MastersCoD\Content\TopDown\Maps\_GENERATED\FranciscLegion\BackArrow.uasset: VerifyImport: Failed to load package for import object 'Package /Game/UIElements/M_BackArrow'
+[AssetLog] C:\Users\FranciscLegion\Desktop\MastersCoD\Content\LevelsParameters\Storing\MeshesAndMaterials\FrigorificoFinal_polySurface654.uasset: Failed to load '/Game/LevelsParameters/Storing/MeshesAndMaterials/FrigorificoFinal': Can't find file.
+[AssetLog] C:\Users\FranciscLegion\Desktop\MastersCoD\Content\LevelsParameters\Storing\MeshesAndMaterials\FrigorificoFinal_polySurface654.uasset: VerifyImport: Failed to load package for import object 'Package /Game/LevelsParameters/Storing/MeshesAndMaterials/FrigorificoFinal'
+[AssetLog] C:\Users\FranciscLegion\Desktop\MastersCoD\Content\LevelsParameters\Storing\thermometer.uasset: VerifyImport: Failed to find script package for import object 'Package /Script/InterchangeFactoryNodes'
+[AssetLog] C:\Users\FranciscLegion\Desktop\MastersCoD\Content\LevelsParameters\Storing\thermometer.uasset: VerifyImport: Failed to find script package for import object 'Package /Script/InterchangePipelines'
+Class /Script/InterchangeFactoryNodes.InterchangeTexture2DFactoryNode is imported by a package but does not exist in memory. EditorDomain keys for packages using it will be invalid if it still exists.
+	To clear this message, resave packages that use the deleted class, or load its module earlier than the packages that use it are referenced.
+Class /Script/InterchangePipelines.InterchangeGenericTexturePipeline is imported by a package but does not exist in memory. EditorDomain keys for packages using it will be invalid if it still exists.
+	To clear this message, resave packages that use the deleted class, or load its module earlier than the packages that use it are referenced.
+[AssetLog] C:\Users\FranciscLegion\Desktop\MastersCoD\Content\LevelsParameters\Storing\BP_SelectCarrot.uasset: Failed to load '/Game/LevelsParameters/Storing/BP_SelectPotato': Can't find file.
+[AssetLog] C:\Users\FranciscLegion\Desktop\MastersCoD\Content\LevelsParameters\Storing\BP_SelectCarrot.uasset: VerifyImport: Failed to load package for import object 'Package /Game/LevelsParameters/Storing/BP_SelectPotato'
+/Game/MSPresets/MSVTTextures/WhitePlaceholder.WhitePlaceholder is marked for virtual streaming but virtual texture streaming is not available.
+/Game/MSPresets/MSVTTextures/WhitePlaceholder.WhitePlaceholder is marked for virtual streaming but virtual texture streaming is not available.
+/Game/MSPresets/MSVTTextures/Placeholder_Normal.Placeholder_Normal is marked for virtual streaming but virtual texture streaming is not available.
+/Game/MSPresets/MSVTTextures/Placeholder_Normal.Placeholder_Normal is marked for virtual streaming but virtual texture streaming is not available.
+/Game/MSPresets/MSVTTextures/DefaultDiffuse.DefaultDiffuse is marked for virtual streaming but virtual texture streaming is not available.
+/Game/MSPresets/MSVTTextures/DefaultDiffuse.DefaultDiffuse is marked for virtual streaming but virtual texture streaming is not available.
+/Game/MSPresets/MSVTTextures/BlackPlaceholder.BlackPlaceholder is marked for virtual streaming but virtual texture streaming is not available.
+/Game/MSPresets/MSVTTextures/BlackPlaceholder.BlackPlaceholder is marked for virtual streaming but virtual texture streaming is not available.
+Cooked packages 520 Packages Remain 1167 Total 1687
+[AssetLog] C:\Users\FranciscLegion\Desktop\MastersCoD\Content\GameAssets\ButterFlyDebug.uasset: Package was saved with a custom version that is not present. Tag A7820CFB20A743598C542C149623CF50  Version 25
+[AssetLog] C:\Users\FranciscLegion\Desktop\MastersCoD\Content\GameAssets\ButterFlyDebug.uasset: VerifyImport: Failed to find script package for import object 'Package /Script/ControlRig'
+[AssetLog] C:\Users\FranciscLegion\Desktop\MastersCoD\Content\GameAssets\ButterFly.uasset: Package was saved with a custom version that is not present. Tag A7820CFB20A743598C542C149623CF50  Version 21
+[AssetLog] C:\Users\FranciscLegion\Desktop\MastersCoD\Content\Characters\Mannequin_UE4\Rigs\RTG_UE5Manny_UE4Manny.uasset: Package was saved with a custom version that is not present. Tag F6DFBB78BB50A0E44018B84D60CBAF23  Version 2
+[AssetLog] C:\Users\FranciscLegion\Desktop\MastersCoD\Content\Characters\Mannequin_UE4\Rigs\RTG_UE5Manny_UE4Manny.uasset: VerifyImport: Failed to find script package for import object 'Package /Script/IKRig'
+[AssetLog] C:\Users\FranciscLegion\Desktop\MastersCoD\Content\Characters\Mannequins\Rigs\ABP_Manny_PostProcess.uasset: VerifyImport: Failed to find script package for import object 'Package /Script/ControlRigDeveloper'
+[AssetLog] C:\Users\FranciscLegion\Desktop\MastersCoD\Content\Characters\Mannequins\Rigs\CR_Mannequin_Procedural.uasset: Package was saved with a custom version that is not present. Tag A7820CFB20A743598C542C149623CF50  Version 13
+[AssetLog] C:\Users\FranciscLegion\Desktop\MastersCoD\Content\Characters\Mannequins\Rigs\CR_Mannequin_Procedural.uasset: VerifyImport: Failed to find script package for import object 'Package /Script/RigVM'
+[AssetLog] C:\Users\FranciscLegion\Desktop\MastersCoD\Content\Characters\Mannequins\Rigs\CR_Mannequin_Procedural.uasset: VerifyImport: Failed to find script package for import object 'Package /Script/RigVMDeveloper'
+[AssetLog] C:\Users\FranciscLegion\Desktop\MastersCoD\Content\Characters\Mannequins\Rigs\CR_Mannequin_Procedural.uasset: Failed to load '/ControlRig/Controls/DefaultGizmoLibrary': Can't find file.
+[AssetLog] C:\Users\FranciscLegion\Desktop\MastersCoD\Content\Characters\Mannequins\Rigs\CR_Mannequin_Procedural.uasset: VerifyImport: Failed to load package for import object 'Package /ControlRig/Controls/DefaultGizmoLibrary'
+Unable to load CR_Mannequin_Procedural with outer Package /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural because its class (ControlRigBlueprint) does not exist
+Unable to load CR_Mannequin_Procedural_C with outer Package /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural because its class (ControlRigBlueprintGeneratedClass) does not exist
+Unable to load RigVMFunctionLibraryEdGraph with outer ControlRigBlueprint /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural because its class (ControlRigGraph) does not exist
+Unable to load ControlRigValidator with outer ControlRigBlueprint /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural because its class (ControlRigValidator) does not exist
+Unable to load Default__CR_Mannequin_Procedural_C with outer Package /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural because its class (CR_Mannequin_Procedural_C) does not exist
+Unable to load Hierarchy with outer ControlRigBlueprint /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural because its class (RigHierarchy) does not exist
+Unable to load DynamicHierarchy with outer CR_Mannequin_Procedural_C /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.Default__CR_Mannequin_Procedural_C because its class (RigHierarchy) does not exist
+Unable to load VM with outer CR_Mannequin_Procedural_C /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.Default__CR_Mannequin_Procedural_C because its class (RigVM) does not exist
+Unable to load RigVMFunctionLibrary with outer ControlRigBlueprint /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural because its class (RigVMFunctionLibrary) does not exist
+Unable to load RigVMModel with outer ControlRigBlueprint /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural because its class (RigVMGraph) does not exist
+Unable to load RigVMMemory_Literal with outer Package /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural because its class (RigVMMemoryStorageGeneratorClass) does not exist
+Unable to load Default__RigVMMemory_Literal with outer Package /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural because its class (RigVMMemory_Literal) does not exist
+Unable to load RigVMMemory_Work with outer Package /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural because its class (RigVMMemoryStorageGeneratorClass) does not exist
+Unable to load Default__RigVMMemory_Work with outer Package /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural because its class (RigVMMemory_Work) does not exist
+FStructProperty::Serialize Loading: Property 'StructProperty /Game/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.ABP_Manny_PostProcess_C:AnimGraphNode_ControlRig'. Unknown structure.
+Property AnimGraphNode_ControlRig of AnimGraphNode_ControlRig has a struct type mismatch (tag AnimNode_ControlRig != prop FallbackStruct) in package:  /Game/Characters/Mannequins/Rigs/ABP_Manny_PostProcess. If that struct got renamed, add an entry to ActiveStructRedirects.
+Class /Script/AnimationData.AnimationSequencerDataModel is imported by a package but does not exist in memory. EditorDomain keys for packages using it will be invalid if it still exists.
+	To clear this message, resave packages that use the deleted class, or load its module earlier than the packages that use it are referenced.
+Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.Manny_upperarm_r_anim
+Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.Manny_upperarm_l_anim
+Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.Manny_thigh_r_anim
+Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.Manny_thigh_l_anim
+Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.Manny_lowerarm_r_anim
+Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.Manny_lowerarm_l_anim
+Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.Manny_hand_r_anim
+Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.Manny_hand_l_anim
+Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.Manny_foot_r_anim
+Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.Manny_foot_l_anim
+Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.Manny_clavicle_r_anim
+Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.Manny_clavicle_l_anim
+Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.Manny_calf_r_anim
+Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim
+Unable to load RTG_UE5Manny_UE4Manny with outer Package /Game/Characters/Mannequin_UE4/Rigs/RTG_UE5Manny_UE4Manny because its class (IKRetargeter) does not exist
+Unable to load GlobalSettings with outer IKRetargeter /Game/Characters/Mannequin_UE4/Rigs/RTG_UE5Manny_UE4Manny.RTG_UE5Manny_UE4Manny because its class (IKRetargetGlobalSettings) does not exist
+Unable to load RootSettings with outer IKRetargeter /Game/Characters/Mannequin_UE4/Rigs/RTG_UE5Manny_UE4Manny.RTG_UE5Manny_UE4Manny because its class (RetargetRootSettings) does not exist
+GetModule racing against IsReady: WindowsDeviceProfileSelector
+Going up to parent DeviceProfile []
+CreateExport: Failed to load Outer for resource 'EaseInFunction': MovieSceneControlRigParameterSection /Game/GameAssets/ButterFlyDebug.ButterFlyDebug:MovieScene_0.MovieSceneControlRigParameterTrack_0.MovieSceneControlRigParameterSection_0
+CreateExport: Failed to load Outer for resource 'EaseOutFunction': MovieSceneControlRigParameterSection /Game/GameAssets/ButterFlyDebug.ButterFlyDebug:MovieScene_0.MovieSceneControlRigParameterTrack_0.MovieSceneControlRigParameterSection_0
+CreateExport: Failed to load Outer for resource 'EaseInFunction': MovieSceneControlRigParameterSection /Game/GameAssets/ButterFly.ButterFly:MovieScene_0.MovieSceneControlRigParameterTrack_0.MovieSceneControlRigParameterSection_0
+CreateExport: Failed to load Outer for resource 'EaseOutFunction': MovieSceneControlRigParameterSection /Game/GameAssets/ButterFly.ButterFly:MovieScene_0.MovieSceneControlRigParameterTrack_0.MovieSceneControlRigParameterSection_0
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_10': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:Rig Graph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_11': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:Rig Graph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_7': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:Rig Graph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_9': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural:Rig Graph
+CreateExport: Failed to load Outer for resource 'SceneThumbnailInfo_0': ControlRigBlueprint /Game/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.CR_Mannequin_Procedural
+[AssetLog] C:\Users\FranciscLegion\Desktop\MastersCoD\Content\Characters\Mannequin_UE4\Rigs\RTG_UE4Manny_UE5Manny.uasset: Package was saved with a custom version that is not present. Tag F6DFBB78BB50A0E44018B84D60CBAF23  Version 2
+Unable to load RTG_UE4Manny_UE5Manny with outer Package /Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny because its class (IKRetargeter) does not exist
+Unable to load GlobalSettings with outer IKRetargeter /Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny because its class (IKRetargetGlobalSettings) does not exist
+Unable to load RootSettings with outer IKRetargeter /Game/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.RTG_UE4Manny_UE5Manny because its class (RetargetRootSettings) does not exist
+[AssetLog] C:\Users\FranciscLegion\Desktop\MastersCoD\Content\Characters\Mannequin_UE4\Rigs\IK_UE4_Mannequin.uasset: Package was saved with a custom version that is not present. Tag F6DFBB78BB50A0E44018B84D60CBAF23  Version 2
+Unable to load IK_UE4_Mannequin with outer Package /Game/Characters/Mannequin_UE4/Rigs/IK_UE4_Mannequin because its class (IKRigDefinition) does not exist
+[AssetLog] C:\Users\FranciscLegion\Desktop\MastersCoD\Content\Characters\Mannequins\Rigs\RTG_Mannequin.uasset: Package was saved with a custom version that is not present. Tag F6DFBB78BB50A0E44018B84D60CBAF23  Version 2
+Unable to load RTG_Mannequin with outer Package /Game/Characters/Mannequins/Rigs/RTG_Mannequin because its class (IKRetargeter) does not exist
+Unable to load GlobalSettings with outer IKRetargeter /Game/Characters/Mannequins/Rigs/RTG_Mannequin.RTG_Mannequin because its class (IKRetargetGlobalSettings) does not exist
+Unable to load RootSettings with outer IKRetargeter /Game/Characters/Mannequins/Rigs/RTG_Mannequin.RTG_Mannequin because its class (RetargetRootSettings) does not exist
+[AssetLog] C:\Users\FranciscLegion\Desktop\MastersCoD\Content\Characters\Mannequins\Rigs\IK_Mannequin.uasset: Package was saved with a custom version that is not present. Tag F6DFBB78BB50A0E44018B84D60CBAF23  Version 2
+Unable to load IK_Mannequin with outer Package /Game/Characters/Mannequins/Rigs/IK_Mannequin because its class (IKRigDefinition) does not exist
+[AssetLog] C:\Users\FranciscLegion\Desktop\MastersCoD\Content\Characters\Mannequins\Rigs\CR_Mannequin_Body.uasset: Package was saved with a custom version that is not present. Tag A7820CFB20A743598C542C149623CF50  Version 21
+[AssetLog] C:\Users\FranciscLegion\Desktop\MastersCoD\Content\Characters\Mannequins\Rigs\CR_Mannequin_Body.uasset: Failed to load '/ControlRig/Controls/DefaultGizmoLibraryNormalized': Can't find file.
+[AssetLog] C:\Users\FranciscLegion\Desktop\MastersCoD\Content\Characters\Mannequins\Rigs\CR_Mannequin_Body.uasset: VerifyImport: Failed to load package for import object 'Package /ControlRig/Controls/DefaultGizmoLibraryNormalized'
+[AssetLog] C:\Users\FranciscLegion\Desktop\MastersCoD\Content\Characters\Mannequins\Rigs\CR_Mannequin_Body.uasset: VerifyImport: Failed to find script package for import object 'Package /Script/ControlRigSpline'
+Unable to load CR_Mannequin_Body with outer Package /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body because its class (ControlRigBlueprint) does not exist
+Unable to load CR_Mannequin_Body_C with outer Package /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body because its class (ControlRigBlueprintGeneratedClass) does not exist
+Unable to load RigVMFunctionLibraryEdGraph with outer ControlRigBlueprint /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body because its class (ControlRigGraph) does not exist
+Unable to load ControlRigValidator with outer ControlRigBlueprint /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body because its class (ControlRigValidator) does not exist
+Unable to load Default__CR_Mannequin_Body_C with outer Package /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body because its class (CR_Mannequin_Body_C) does not exist
+Unable to load Hierarchy with outer ControlRigBlueprint /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body because its class (RigHierarchy) does not exist
+Unable to load DynamicHierarchy with outer CR_Mannequin_Body_C /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.Default__CR_Mannequin_Body_C because its class (RigHierarchy) does not exist
+Unable to load VM with outer CR_Mannequin_Body_C /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.Default__CR_Mannequin_Body_C because its class (RigVM) does not exist
+Unable to load RigVMFunctionLibrary with outer ControlRigBlueprint /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body because its class (RigVMFunctionLibrary) does not exist
+Unable to load RigVMModel with outer ControlRigBlueprint /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body because its class (RigVMGraph) does not exist
+Unable to load Default__RigVMMemory_Literal with outer Package /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body because its class (RigVMMemory_Literal) does not exist
+Unable to load Default__RigVMMemory_Work with outer Package /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body because its class (RigVMMemory_Work) does not exist
+[AssetLog] C:\Users\FranciscLegion\Desktop\MastersCoD\Content\Characters\Mannequins\Rigs\CR_Mannequin_BasicFootIK.uasset: Package was saved with a custom version that is not present. Tag A7820CFB20A743598C542C149623CF50  Version 13
+[AssetLog] C:\Users\FranciscLegion\Desktop\MastersCoD\Content\Characters\Mannequins\Rigs\CR_Mannequin_BasicFootIK.uasset: VerifyImport: Failed to find script package for import object 'Package /Script/PBIK'
+Unable to load CR_Mannequin_BasicFootIK with outer Package /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK because its class (ControlRigBlueprint) does not exist
+Unable to load CR_Mannequin_BasicFootIK_C with outer Package /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK because its class (ControlRigBlueprintGeneratedClass) does not exist
+Unable to load RigVMFunctionLibraryEdGraph with outer ControlRigBlueprint /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK because its class (ControlRigGraph) does not exist
+Unable to load ControlRigValidator with outer ControlRigBlueprint /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK because its class (ControlRigValidator) does not exist
+Unable to load Default__CR_Mannequin_BasicFootIK_C with outer Package /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK because its class (CR_Mannequin_BasicFootIK_C) does not exist
+Unable to load Hierarchy with outer ControlRigBlueprint /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK because its class (RigHierarchy) does not exist
+Unable to load DynamicHierarchy with outer CR_Mannequin_BasicFootIK_C /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.Default__CR_Mannequin_BasicFootIK_C because its class (RigHierarchy) does not exist
+Unable to load VM with outer CR_Mannequin_BasicFootIK_C /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.Default__CR_Mannequin_BasicFootIK_C because its class (RigVM) does not exist
+Unable to load RigVMFunctionLibrary with outer ControlRigBlueprint /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK because its class (RigVMFunctionLibrary) does not exist
+Unable to load RigVMModel with outer ControlRigBlueprint /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK because its class (RigVMGraph) does not exist
+Unable to load RigVMMemory_Literal with outer Package /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK because its class (RigVMMemoryStorageGeneratorClass) does not exist
+Unable to load Default__RigVMMemory_Literal with outer Package /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK because its class (RigVMMemory_Literal) does not exist
+Unable to load RigVMMemory_Work with outer Package /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK because its class (RigVMMemoryStorageGeneratorClass) does not exist
+Unable to load Default__RigVMMemory_Work with outer Package /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK because its class (RigVMMemory_Work) does not exist
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_0': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Backward Arm
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_12': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Backward Arm
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_13': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Backward Arm
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_14': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Backward Arm
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_2': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Backward Foot
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_3': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Backward Foot
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_9_1': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Backward Foot
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_0': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Backward Leg
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_12': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Backward Leg
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_13': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Backward Leg
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_11': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Backward Neck
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_2': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Backward Neck
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_2_1': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Backward Neck
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_0': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Backward Spine
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_4_1': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Backward Spine
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_16': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:BSpline Passing thru 4 Points
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_17': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:BSpline Passing thru 4 Points
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_1': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:BSpline Passing thru 4 Points.Solve_SubGraph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_15': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:BSpline Passing thru 4 Points.Solve_SubGraph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_0': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:FK Point At
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_1': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:FK Point At
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_0': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Arm
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_1': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Arm
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_14': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Arm
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_2': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Arm
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_3': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Arm
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_4': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Arm
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_6': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Arm
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_7': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Arm
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_9': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Arm
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_1': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Foot
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_14': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Foot
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_2': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Foot
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_4': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Foot
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_4_1_1': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Foot
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_4_1_1_1': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Foot
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_5': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Foot
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_6': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Foot
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_6_1': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Foot
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_0': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Leg
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_1': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Leg
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_3': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Leg
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_6_1': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Leg
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_7': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Leg
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_0': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Neck
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_1': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Neck
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_10': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Neck
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_11': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Neck
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_2': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Neck
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_3': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Neck
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_4': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Neck
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_0': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Reverse Foot
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_1': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Reverse Foot
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_2': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Reverse Foot
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_3': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Reverse Foot
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_4': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Reverse Foot
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_4_1': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Reverse Foot
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_5': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Reverse Foot
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_0': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Spine
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_1': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Spine
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_2': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Spine
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_4': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Spine
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_4_1': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Spine
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_7': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Spine
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_8': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Spine
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_9': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Spine
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_0': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Spine.Spine IK Solve_SubGraph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_1': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Spine.Spine IK Solve_SubGraph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_2': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Forward Spine.Spine IK Solve_SubGraph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_2': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:IK 2 Bones
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_3': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:IK 2 Bones
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_4': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:IK 2 Bones
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_0': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:IK 2 Bones.Softness_SubGraph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_1': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:IK 2 Bones.Softness_SubGraph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_2': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:IK 2 Bones.Softness_SubGraph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_0': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Interpolate Interacting Controls
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_1': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Interpolate Interacting Controls
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_2': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Interpolate Interacting Controls
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_3': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Interpolate Interacting Controls
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_4': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Interpolate Interacting Controls
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_5': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Interpolate Interacting Controls
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_0': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Match 2 Bones IK onto FK
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_1': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Match 2 Bones IK onto FK
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_0': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Rig Graph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_1': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Rig Graph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_10': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Rig Graph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_11': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Rig Graph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_11_1': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Rig Graph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_2': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Rig Graph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_24': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Rig Graph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_3': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Rig Graph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_30': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Rig Graph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_5': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Rig Graph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_7': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Rig Graph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_9': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Rig Graph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_0': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:RigVMFunctionLibraryEdGraph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_1': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:RigVMFunctionLibraryEdGraph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_10': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:RigVMFunctionLibraryEdGraph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_11': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:RigVMFunctionLibraryEdGraph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_11_1': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:RigVMFunctionLibraryEdGraph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_2': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:RigVMFunctionLibraryEdGraph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_24': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:RigVMFunctionLibraryEdGraph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_3': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:RigVMFunctionLibraryEdGraph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_30': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:RigVMFunctionLibraryEdGraph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_5': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:RigVMFunctionLibraryEdGraph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_7': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:RigVMFunctionLibraryEdGraph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_9': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:RigVMFunctionLibraryEdGraph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_10': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Setup Arm
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_3_1': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Setup Arm
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_4': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Setup Arm
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_8': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Setup Arm
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_9': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Setup Arm
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_9_1': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Setup Arm
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_7_1': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Setup Fingers
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_10': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Setup Foot
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_8': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Setup Foot
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_9': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Setup Foot
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_9_1': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Setup Foot
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_1': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Setup Leg
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_10': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Setup Leg
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_4': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Setup Leg
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_8': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Setup Leg
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_9': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Setup Leg
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_0': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Setup Neck
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_1': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Setup Neck
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_2': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Setup Neck
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_3': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Setup Neck
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_1': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Setup Spine
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_2': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Setup Spine
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_3': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body:Setup Spine
+CreateExport: Failed to load Outer for resource 'SceneThumbnailInfo_0': ControlRigBlueprint /Game/Characters/Mannequins/Rigs/CR_Mannequin_Body.CR_Mannequin_Body
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_0': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:Rig Graph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_1': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:Rig Graph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_2': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:Rig Graph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_3': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:Rig Graph
+CreateExport: Failed to load Outer for resource 'EdGraphNode_Comment_4': ControlRigGraph /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK:Rig Graph
+CreateExport: Failed to load Outer for resource 'SceneThumbnailInfo_0': ControlRigBlueprint /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK
+[AssetLog] C:\Users\FranciscLegion\Desktop\MastersCoD\Content\Animation\Monkey\MonkeyRig\RTG_Monkey_to_Manny.uasset: Package was saved with a custom version that is not present. Tag F6DFBB78BB50A0E44018B84D60CBAF23  Version 2
+Unable to load RTG_Monkey_to_Manny with outer Package /Game/Animation/Monkey/MonkeyRig/RTG_Monkey_to_Manny because its class (IKRetargeter) does not exist
+Unable to load GlobalSettings with outer IKRetargeter /Game/Animation/Monkey/MonkeyRig/RTG_Monkey_to_Manny.RTG_Monkey_to_Manny because its class (IKRetargetGlobalSettings) does not exist
+Unable to load RootSettings with outer IKRetargeter /Game/Animation/Monkey/MonkeyRig/RTG_Monkey_to_Manny.RTG_Monkey_to_Manny because its class (RetargetRootSettings) does not exist
+[AssetLog] C:\Users\FranciscLegion\Desktop\MastersCoD\Content\Animation\Monkey\MonkeyRig\RTG_Manny_to_Monkey.uasset: Package was saved with a custom version that is not present. Tag F6DFBB78BB50A0E44018B84D60CBAF23  Version 2
+Unable to load RTG_Manny_to_Monkey with outer Package /Game/Animation/Monkey/MonkeyRig/RTG_Manny_to_Monkey because its class (IKRetargeter) does not exist
+Unable to load GlobalSettings with outer IKRetargeter /Game/Animation/Monkey/MonkeyRig/RTG_Manny_to_Monkey.RTG_Manny_to_Monkey because its class (IKRetargetGlobalSettings) does not exist
+Unable to load RootSettings with outer IKRetargeter /Game/Animation/Monkey/MonkeyRig/RTG_Manny_to_Monkey.RTG_Manny_to_Monkey because its class (RetargetRootSettings) does not exist
+[AssetLog] C:\Users\FranciscLegion\Desktop\MastersCoD\Content\Animation\Monkey\MonkeyRig\IK_ResizeMonkey.uasset: Package was saved with a custom version that is not present. Tag F6DFBB78BB50A0E44018B84D60CBAF23  Version 2
+Unable to load IK_ResizeMonkey with outer Package /Game/Animation/Monkey/MonkeyRig/IK_ResizeMonkey because its class (IKRigDefinition) does not exist
+[AssetLog] C:\Users\FranciscLegion\Desktop\MastersCoD\Content\Animation\Monkey\MonkeyRig\IK_Manny.uasset: Package was saved with a custom version that is not present. Tag F6DFBB78BB50A0E44018B84D60CBAF23  Version 2
+Unable to load IK_Manny with outer Package /Game/Animation/Monkey/MonkeyRig/IK_Manny because its class (IKRigDefinition) does not exist
+Excluding /Bridge/MSPresets/M_MS_SurfaceBlend_Material/LayerFunctions/MF_Displacement -> C:/Users/FranciscLegion/Desktop/MastersCoD/Saved/Cooked/Android_ASTC/Engine/Plugins/Bridge/Content/MSPresets/M_MS_SurfaceBlend_Material/LayerFunctions/MF_Displacement.uasset
+Excluding /Bridge/MSPresets/M_MS_SurfaceBlend_Material/LayerFunctions/Base/MF_BaseLayerAdjustments -> C:/Users/FranciscLegion/Desktop/MastersCoD/Saved/Cooked/Android_ASTC/Engine/Plugins/Bridge/Content/MSPresets/M_MS_SurfaceBlend_Material/LayerFunctions/Base/MF_BaseLayerAdjustments.uasset
+Excluding /Bridge/MSPresets/M_MS_SurfaceBlend_Material/LayerFunctions/Middle/MF_MiddleLayerAdjustments -> C:/Users/FranciscLegion/Desktop/MastersCoD/Saved/Cooked/Android_ASTC/Engine/Plugins/Bridge/Content/MSPresets/M_MS_SurfaceBlend_Material/LayerFunctions/Middle/MF_MiddleLayerAdjustments.uasset
+Excluding /Bridge/MSPresets/M_MS_SurfaceBlend_Material/LayerFunctions/Top/MF_TopLayerAdjustments -> C:/Users/FranciscLegion/Desktop/MastersCoD/Saved/Cooked/Android_ASTC/Engine/Plugins/Bridge/Content/MSPresets/M_MS_SurfaceBlend_Material/LayerFunctions/Top/MF_TopLayerAdjustments.uasset
+Excluding /Bridge/MSPresets/M_MS_Glass_Material/Functions/MF_TranslucencyMetallic -> C:/Users/FranciscLegion/Desktop/MastersCoD/Saved/Cooked/Android_ASTC/Engine/Plugins/Bridge/Content/MSPresets/M_MS_Glass_Material/Functions/MF_TranslucencyMetallic.uasset
+Excluding /Bridge/MSPresets/M_MS_Glass_Material/Functions/MF_Refraction -> C:/Users/FranciscLegion/Desktop/MastersCoD/Saved/Cooked/Android_ASTC/Engine/Plugins/Bridge/Content/MSPresets/M_MS_Glass_Material/Functions/MF_Refraction.uasset
+Excluding /Bridge/MSPresets/M_MS_Foliage_Material/Functions/MF_Translucency -> C:/Users/FranciscLegion/Desktop/MastersCoD/Saved/Cooked/Android_ASTC/Engine/Plugins/Bridge/Content/MSPresets/M_MS_Foliage_Material/Functions/MF_Translucency.uasset
+Excluding /Bridge/MSPresets/MSTextures/White -> C:/Users/FranciscLegion/Desktop/MastersCoD/Saved/Cooked/Android_ASTC/Engine/Plugins/Bridge/Content/MSPresets/MSTextures/White.uasset
+Excluding /Bridge/MSPresets/MSTextures/Placeholder_Normal -> C:/Users/FranciscLegion/Desktop/MastersCoD/Saved/Cooked/Android_ASTC/Engine/Plugins/Bridge/Content/MSPresets/MSTextures/Placeholder_Normal.uasset
+Excluding /Bridge/MSPresets/MSTextures/WhitePlaceholder -> C:/Users/FranciscLegion/Desktop/MastersCoD/Saved/Cooked/Android_ASTC/Engine/Plugins/Bridge/Content/MSPresets/MSTextures/WhitePlaceholder.uasset
+Excluding /Bridge/MSPresets/MSVTTextures/BlackPlaceholder -> C:/Users/FranciscLegion/Desktop/MastersCoD/Saved/Cooked/Android_ASTC/Engine/Plugins/Bridge/Content/MSPresets/MSVTTextures/BlackPlaceholder.uasset
+Excluding /Bridge/MSPresets/MSVTTextures/DefaultDiffuse -> C:/Users/FranciscLegion/Desktop/MastersCoD/Saved/Cooked/Android_ASTC/Engine/Plugins/Bridge/Content/MSPresets/MSVTTextures/DefaultDiffuse.uasset
+Excluding /Bridge/MSPresets/MSVTTextures/Placeholder_Normal -> C:/Users/FranciscLegion/Desktop/MastersCoD/Saved/Cooked/Android_ASTC/Engine/Plugins/Bridge/Content/MSPresets/MSVTTextures/Placeholder_Normal.uasset
+Excluding /Bridge/MSPresets/MSVTTextures/WhitePlaceholder -> C:/Users/FranciscLegion/Desktop/MastersCoD/Saved/Cooked/Android_ASTC/Engine/Plugins/Bridge/Content/MSPresets/MSVTTextures/WhitePlaceholder.uasset
+Excluding /Bridge/MSPresets/MSTextures/BlackPlaceholder -> C:/Users/FranciscLegion/Desktop/MastersCoD/Saved/Cooked/Android_ASTC/Engine/Plugins/Bridge/Content/MSPresets/MSTextures/BlackPlaceholder.uasset
+Excluding /Bridge/MSPresets/MSTextures/FlatNormal -> C:/Users/FranciscLegion/Desktop/MastersCoD/Saved/Cooked/Android_ASTC/Engine/Plugins/Bridge/Content/MSPresets/MSTextures/FlatNormal.uasset
+Excluding /Bridge/MSPresets/MSTextures/Black -> C:/Users/FranciscLegion/Desktop/MastersCoD/Saved/Cooked/Android_ASTC/Engine/Plugins/Bridge/Content/MSPresets/MSTextures/Black.uasset
+Excluding /Bridge/MSPresets/M_MS_Glass_Material/Textures/Black -> C:/Users/FranciscLegion/Desktop/MastersCoD/Saved/Cooked/Android_ASTC/Engine/Plugins/Bridge/Content/MSPresets/M_MS_Glass_Material/Textures/Black.uasset
+Excluding /Bridge/MSPresets/M_MS_Glass_Material/Textures/White -> C:/Users/FranciscLegion/Desktop/MastersCoD/Saved/Cooked/Android_ASTC/Engine/Plugins/Bridge/Content/MSPresets/M_MS_Glass_Material/Textures/White.uasset
+Excluding /Bridge/MSPresets/M_MS_Default_Material/Functions/MF_ObjAdjustments -> C:/Users/FranciscLegion/Desktop/MastersCoD/Saved/Cooked/Android_ASTC/Engine/Plugins/Bridge/Content/MSPresets/M_MS_Default_Material/Functions/MF_ObjAdjustments.uasset
+Excluding /Bridge/MSPresets/M_MS_Default_Fuzz_Material/Functions/MF_Fuzz -> C:/Users/FranciscLegion/Desktop/MastersCoD/Saved/Cooked/Android_ASTC/Engine/Plugins/Bridge/Content/MSPresets/M_MS_Default_Fuzz_Material/Functions/MF_Fuzz.uasset
+Excluding /Bridge/MSPresets/M_MS_Surface_Material/Functions/MF_Transmission -> C:/Users/FranciscLegion/Desktop/MastersCoD/Saved/Cooked/Android_ASTC/Engine/Plugins/Bridge/Content/MSPresets/M_MS_Surface_Material/Functions/MF_Transmission.uasset
+Excluding /Bridge/MSPresets/M_MS_Glass_Material/Functions/MF_TranslucencyEmission -> C:/Users/FranciscLegion/Desktop/MastersCoD/Saved/Cooked/Android_ASTC/Engine/Plugins/Bridge/Content/MSPresets/M_MS_Glass_Material/Functions/MF_TranslucencyEmission.uasset
+Excluding /Bridge/MSPresets/M_MS_Default_Material/Functions/MF_Transmission -> C:/Users/FranciscLegion/Desktop/MastersCoD/Saved/Cooked/Android_ASTC/Engine/Plugins/Bridge/Content/MSPresets/M_MS_Default_Material/Functions/MF_Transmission.uasset
+WorldGridMaterial-ES3_1-Default: MATSM_D2BE6101BBDD464FA4DA4FFD062CBE0E_SF_VULKAN_ES31_ANDROID_-1844226488__r.MobileHDR_1_BC5N_NoCCBN_NoIris_DEV_SL_LWC2_PreExp_NoDBuf_NoVFog_DXC1_VFO_SKYATM_SKYHF_gs0_VT-0-0-0-0_VED_Aniso-0_ComprOodle_Compr2_Lev6_ExclNonPipSh-0_LWC-2097152_3346209920DB6FCC63A5C44EA751315CBC3EF5DDED_Num_ES3_1_FL_00000001_MFA_ffffffff_V_B6A0A753ED62499D8F30931E61FCAB05_0_DB3E993F4E2E98B305AD13B92D8C5DA5_44591F6EA1716702072847EA03BE3B65FD6959CC___TMobileBasePassPSFMobileDistanceFieldShadowsAndLQLightMapPolicyHDRLinear64Skylight0_0_07E61BD3B7F5AA106823311F73DAFD61445269F1AA4F15A1386D937A324EC11FBD342EBF2C480D7C5_TMobileBasePassPSFMobileDirectionalLightAndCSMPolicyHDRLinear640_0_07E61BD3B7F5AA106823311F73DAFD61445269F1A8383C53003A7E3876CFE7662292C86B20CC86048_TMobileBasePassPSFMobileDistanceFieldShadowsLightMapAndCSMLightingPolicyHDRLinear64SkylightEnableLocalLights0_0_07E61BD3B7F5AA106823311F73DAFD61445269F1A3876847F76B1CD05B99D280D20D645265C3A6F3F_TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect0_0_03AB3D8F68330A6B8BACE1AF2B784C8798FF2B54D207C1CA66ADE37BEA2C8C42C98158E8CFB62D5F7_TShadowDepthVSVertexShadowDepth_OutputDepthPositionOnly0_0_0E36B356FB21B38C71BA8C4F80CBA7700E11F003DE85635C7384567C33A7F5AB958B16D00D2D1687F_TMobileBasePassPSFMobileMovableDirectionalLightWithLightmapPolicyHDRLinear64Skylight0_0_07E61BD3B7F5AA106823311F73DAFD61445269F1AE1F4FF41C12EFFB6FCBB079EF0B25B021029D9F9_TMobileBasePassPSTLightMapPolicyLQHDRLinear640_0_07E61BD3B7F5AA106823311F73DAFD61445269F1A3C204CF17F32661E12FD4A0B12DAA540EAAE45B1_TMobileBasePassPSFMobileMovableDirectionalLightWithLightmapPolicyHDRLinear640_0_07E61BD3B7F5AA106823311F73DAFD61445269F1A192012ADB9E0A04F63F36E2FB161C177FE19047E_TMobileBasePassPSFMobileDirectionalLightAndSHIndirectPolicyHDRLinear640_0_07E61BD3B7F5AA106823311F73DAFD61445269F1AEF3F4169A6B46318576352625EA91D01E6EDDFCE_TMobileBasePassPSFNoLightMapPolicyHDRLinear64EnableLocalLights0_0_07E61BD3B7F5AA106823311F73DAFD61445269F1ABB70D9EECE833EAEA7437EA71A7F9C87E424B500_TMobileBasePassPSFMobileDirectionalLightAndSHIndirectPolicyHDRLinear64Skylight0_0_07E61BD3B7F5AA106823311F73DAFD61445269F1A034BCAD751F9C1EF96AF3A64A79077E582F81310_TMobileBasePassPSFMobileDistanceFieldShadowsLightMapAndCSMLightingPolicyHDRLinear64EnableLocalLights0_0_07E61BD3B7F5AA106823311F73DAFD61445269F1A50C177A616CC09EE2BA3BCE796A21CCDFB44C2C8_TMobileBasePassPSFMobileDirectionalLightCSMAndLightMapPolicyHDRLinear64EnableLocalLights0_0_07E61BD3B7F5AA106823311F73DAFD61445269F1A75742AE1323105C4DF412D3D462D8BC8C743E184_TMobileBasePassVSFMobileMovableDirectionalLightWithLightmapPolicyHDRLinear640_0_033E72FC3132BDA1464371BD46EDF6721DD4C8C00CE194698A51D74411C309E99CBFB7F14F9366252_TMobileBasePassPSFMobileDirectionalLightAndCSMPolicyHDRLinear64EnableLocalLights0_0_07E61BD3B7F5AA106823311F73DAFD61445269F1A59CDA363A0DAF3A14E5A20018620CB9AE7F79189_TMobileBasePassVSFMobileDistanceFieldShadowsLightMapAndCSMLightingPolicyHDRLinear640_0_033E72FC3132BDA1464371BD46EDF6721DD4C8C00AE300FADFAE9C069C309B6A4A7B6F4D467F2E71D_TMobileBasePassPSFMobileDirectionalLightCSMAndSHIndirectPolicyHDRLinear640_0_07E61BD3B7F5AA106823311F73DAFD61445269F1ABE344CC9D10567DDA75F9885BA76AFC2436EACB6_TShadowDepthVSVertexShadowDepth_OutputDepth0_0_0E36B356FB21B38C71BA8C4F80CBA7700E11F003D1A5182890594B56BC67E2A01419CF4A9F4E80B78_TMobileBasePassPSFNoLightMapPolicyHDRLinear64Skylight0_0_07E61BD3B7F5AA106823311F73DAFD61445269F1A17F4600D881871A37C2FEEB441AFC5D70AA58DE7_TDepthOnlyVS<true>0_0_03A6558AF6DF425FA052591D9D21E0DDDC4046046AFF1CFD347A89CD04D508E3DAE64DA25D12AAE3E_TMobileBasePassPSTLightMapPolicyLQHDRLinear64Skylight0_0_07E61BD3B7F5AA106823311F73DAFD61445269F1A075EB576B82A2AB305CF0FED76B2040474337E0F_TMobileBasePassPSFMobileDirectionalLightAndSHIndirectPolicyHDRLinear64EnableLocalLights0_0_07E61BD3B7F5AA106823311F73DAFD61445269F1A35D5D0CAFB38DED165D0DEAC5B014CF0159FC969_TMobileBasePassPSFMobileDistanceFieldShadowsAndLQLightMapPolicyHDRLinear64SkylightEnableLocalLights0_0_07E61BD3B7F5AA106823311F73DAFD61445269F1AAFF217E65D6D5D6B0C4110C07160B4B80A504046_TMobileBasePassPSFMobileMovableDirectionalLightWithLightmapPolicyHDRLinear64EnableLocalLights0_0_07E61BD3B7F5AA106823311F73DAFD61445269F1ADC26780078884718EE0F62F4A220142FEF2F8176_TMobileBasePassPSFMobileMovableDirectionalLightWithLightmapPolicyHDRLinear64SkylightEnableLocalLights0_0_07E61BD3B7F5AA106823311F73DAFD61445269F1A6CCDD45377F68BB6932B7069B9F400EEDD67F40E_TMobileBasePassVSFMobileDirectionalLightCSMAndLightMapPolicyHDRLinear640_0_033E72FC3132BDA1464371BD46EDF6721DD4C8C006C7951EC2311211AB7F447258BD10800FA283BB4_TMobileBasePassPSFMobileDistanceFieldShadowsAndLQLightMapPolicyHDRLinear640_0_07E61BD3B7F5AA106823311F73DAFD61445269F1AC4E8926776E48252F2438491E72E9BD5B65568F6_TMobileBasePassPSFMobileMovableDirectionalLightCSMWithLightmapPolicyHDRLinear640_0_07E61BD3B7F5AA106823311F73DAFD61445269F1AB5668853781208126FF089C209E63C2E40ADFE6D_TMobileBasePassVSFMobileDistanceFieldShadowsAndLQLightMapPolicyHDRLinear640_0_033E72FC3132BDA1464371BD46EDF6721DD4C8C003DA0F8E7B2B9B73CC19A771C9659CC844B3B7A6F_TMobileBasePassPSFMobileDirectionalLightAndCSMPolicyHDRLinear64Skylight0_0_07E61BD3B7F5AA106823311F73DAFD61445269F1AA468829A6651AFF58F0AE0183C8CCB754E7F6B08_TMobileBasePassPSFMobileDirectionalLightCSMAndSHIndirectPolicyHDRLinear64Skylight0_0_07E61BD3B7F5AA106823311F73DAFD61445269F1AEA4DD6CFE6C29C53336D23E2F3A9A6CE5005C88D_TMobileBasePassPSFMobileMovableDirectionalLightCSMWithLightmapPolicyHDRLinear64Skylight0_0_07E61BD3B7F5AA106823311F73DAFD61445269F1A2CC22855591BEB48B903122D8E2DF6DEA064815B_FVelocityPS0_0_086C33780FCE68184AD6BDD756829ED68517E43EF0049112269A7BCBCC3085580059642AE0152C34F_TMobileBasePassPSFMobileDirectionalLightCSMAndSHIndirectPolicyHDRLinear64EnableLocalLights0_0_07E61BD3B7F5AA106823311F73DAFD61445269F1AB393D7B41B7F3AA839AB4E300697E09A4C4B6777_TMobileBasePassPSFMobileDirectionalLightCSMAndLightMapPolicyHDRLinear640_0_07E61BD3B7F5AA106823311F73DAFD61445269F1A1A9C519F43CFF1362318DCEB8EA1BC26F5C1022E_TMobileBasePassPSTLightMapPolicyLQHDRLinear64EnableLocalLights0_0_07E61BD3B7F5AA106823311F73DAFD61445269F1AADB6DE93483EAA35EAB406ADB94D784C0B7BFCFC_TMobileBasePassPSFMobileDirectionalLightCSMAndLightMapPolicyHDRLinear64SkylightEnableLocalLights0_0_07E61BD3B7F5AA106823311F73DAFD61445269F1AE3E37D4BA40232464DC180CDF0DCDD4946B0605A_TMobileBasePassPSFMobileDistanceFieldShadowsLightMapAndCSMLightingPolicyHDRLinear64Skylight0_0_07E61BD3B7F5AA106823311F73DAFD61445269F1A61D0F85F249B7858B569555DD6BB833B5A2FBD9E_TMobileBasePassPSFMobileMovableDirectionalLightCSMWithLightmapPolicyHDRLinear64EnableLocalLights0_0_07E61BD3B7F5AA106823311F73DAFD61445269F1ACA1DB89E3CF7D552B956F377B44758297B6AEADC_TMobileBasePassVSTLightMapPolicyLQHDRLinear640_0_033E72FC3132BDA1464371BD46EDF6721DD4C8C0000322CB91D89B71CADDAF2D45A53C9E138BC3DBC_TMobileBasePassPSFMobileDirectionalLightAndCSMPolicyHDRLinear64SkylightEnableLocalLights0_0_07E61BD3B7F5AA106823311F73DAFD61445269F1A9CD03804E36BBA66AC4229BE1B09A1EED58640F3_TMobileBasePassPSFMobileDistanceFieldShadowsLightMapAndCSMLightingPolicyHDRLinear640_0_07E61BD3B7F5AA106823311F73DAFD61445269F1A7D478C71A23CC68C150D0FD37946EAB5314E0FB9_TMobileBasePassPSFNoLightMapPolicyHDRLinear64SkylightEnableLocalLights0_0_07E61BD3B7F5AA106823311F73DAFD61445269F1A4A26D021C5EA08040DC8400661CDC3C7D9D423A6_TMobileBasePassVSFNoLightMapPolicyHDRLinear640_0_033E72FC3132BDA1464371BD46EDF6721DD4C8C0007B0C66A3CAC85543D60FCF1F0F14156952DF50F_TMobileBasePassPSFMobileDirectionalLightAndSHIndirectPolicyHDRLinear64SkylightEnableLocalLights0_0_07E61BD3B7F5AA106823311F73DAFD61445269F1A4EFD310574FB40C1EAE95CDAA98DE75E9D40B921_TMobileBasePassPSFMobileDirectionalLightCSMAndLightMapPolicyHDRLinear64Skylight0_0_07E61BD3B7F5AA106823311F73DAFD61445269F1A6337A21FC793270AB6D6DFD8AD41F5305CBBC7B3_TMobileBasePassVSFMobileDirectionalLightCSMAndSHIndirectPolicyHDRLinear640_0_033E72FC3132BDA1464371BD46EDF6721DD4C8C0002272D290A2D32C5ED4810D83374F8D4DF916DBA_TMobileBasePassPSFNoLightMapPolicyHDRLinear640_0_07E61BD3B7F5AA106823311F73DAFD61445269F1A3650F7DD9753B8471BF78AD64C27828533B3B58D_TDepthOnlyVS<false>0_0_0FF2E251242B7486139AA6EC7FC32D1A96C38765EB769868CBFF7E6463FE4FF1B7AA6E03831D1EC46_TMobileBasePassPSTLightMapPolicyLQHDRLinear64SkylightEnableLocalLights0_0_07E61BD3B7F5AA106823311F73DAFD61445269F1AB65ECEA91BC40AD3253763FBE5E653F49F13F9DD_TMobileBasePassVSFMobileMovableDirectionalLightCSMWithLightmapPolicyHDRLinear640_0_033E72FC3132BDA1464371BD46EDF6721DD4C8C0090A38EE36194FF0689EA665A0E724F500D425C4C_FVelocityVS0_0_086C33780FCE68184AD6BDD756829ED68517E43EFB3B12C74A07B692B1CFE18D1E51BD8C189682129_TMobileBasePassVSFMobileDirectionalLightAndCSMPolicyHDRLinear640_0_033E72FC3132BDA1464371BD46EDF6721DD4C8C00C02C6E4B26B695783509AFFA68B57AE3DB008FB1_TMobileBasePassPSFMobileDistanceFieldShadowsAndLQLightMapPolicyHDRLinear64EnableLocalLights0_0_07E61BD3B7F5AA106823311F73DAFD61445269F1A1FC277E2C2F994EE106DE5B49BEA6061EE772663_TMobileBasePassPSFMobileDirectionalLightCSMAndSHIndirectPolicyHDRLinear64SkylightEnableLocalLights0_0_07E61BD3B7F5AA106823311F73DAFD61445269F1ADA25CCC21539AE4BA5494729000AFB45F71AC03B_TMobileBasePassVSFMobileDirectionalLightAndSHIndirectPolicyHDRLinear640_0_033E72FC3132BDA1464371BD46EDF6721DD4C8C00A2922BBF63C20211F464929AB349906411B221FD_TMobileBasePassPSFMobileMovableDirectionalLightCSMWithLightmapPolicyHDRLinear64SkylightEnableLocalLights0_0_07E61BD3B7F5AA106823311F73DAFD61445269F1A6BBE3278027A95E4043370304B6CE19AB63B4E09_FGPUSpriteVertexFactory672E1C064382DC08AB1014C913C80980297FF0F65C5BE91DA01DC2B25B1018F3EDA7A6FC7D1D30AEB9CA513CCBA4F1E3AF7D9556DD0F2FF45E951E1A_FNiagaraRibbonVertexFactory53BEE602AACCD0E721B0BC6FBA5A3FF2FD8BC9DDA5C2BD7C8E1CB8C2C0438E13767AF67A0D5B5966DE03DD13CEAD2D60503F2AAC85D4762994EF4025A5C2BD7C8E1CB8C2C0438E13767AF67A0D5B5966A5C2BD7C8E1CB8C2C0438E13767AF67A0D5B5966_TGPUSkinAPEXClothVertexFactoryDefault63AF05C0CF2D49C9327D5500C05D2E6F3EF3198CBBEDF5F2F99060D3A4E705A02AFC0D4CFF550703_FParticleSpriteVertexFactoryB1CB04D5D1C3B6B3D1801E660523CF46DA371DF9F99E1B0FB635933CEEAC41CF9441DF5EA4A994CA9DAE5A7C55936FD50BC3B20BD063C1832A4D4247_TGPUSkinVertexFactoryUnlimited63AF05C0CF2D49C9327D5500C05D2E6F3EF3198C180376A7171B50BD465E9983F32BCB5A07542FE7_FNiagaraMeshVertexFactory2662FB7CAE0E1DED0FAA9F89EB1D2078BC71AFE74B3A20E0CA93D5CA5A60C16EF2EB14EA073FC9571BD81B2CBA1F364F28A837532353718EB814537B4B3A20E0CA93D5CA5A60C16EF2EB14EA073FC9574B3A20E0CA93D5CA5A60C16EF2EB14EA073FC957_FParticleBeamTrailVertexFactory002AB5E4D0642F9271EBF25DDBE168D2EF4A9E50378BBDDEC2CEAC35A309C357B38D702E7981D5D3_TGPUSkinVertexFactoryDefault63AF05C0CF2D49C9327D5500C05D2E6F3EF3198C180376A7171B50BD465E9983F32BCB5A07542FE7_TGPUSkinAPEXClothVertexFactoryUnlimited63AF05C0CF2D49C9327D5500C05D2E6F3EF3198CBBEDF5F2F99060D3A4E705A02AFC0D4CFF550703_FGeometryCollectionVertexFactoryF5A2BCC69545552FF5003A68B58F735B0ED5D89649D716CAD02F0AC031CC93ACB2AFCB9C42E7DC4149D716CAD02F0AC031CC93ACB2AFCB9C42E7DC4149D716CAD02F0AC031CC93ACB2AFCB9C42E7DC41_FLandscapeXYOffsetVertexFactory7EFCB848BE8D9BD91DD60CF06F8C2685693A8285B1684FBEF19B946A8709F4309D7CC4E5FC6044ADEBA49461CECB1EA5D21E2BF8918B91C7C3994DCEB1684FBEF19B946A8709F4309D7CC4E5FC6044ADB1684FBEF19B946A8709F4309D7CC4E5FC6044AD_FMeshParticleVertexFactory2650D5D134CCE4CEE263EBAA1D2694AA5B94F9CEF773920348F231C490A74B1A551F8CE3ABF04791_FInstancedStaticMeshVertexFactory3AC0B9F92CD47E7EF3E93B4FA867A0A446F8DA47A163AB24C1DAF4D0703BC40B6B0C866D318AC9F8A163AB24C1DAF4D0703BC40B6B0C866D318AC9F8A163AB24C1DAF4D0703BC40B6B0C866D318AC9F8A163AB24C1DAF4D0703BC40B6B0C866D318AC9F8_FSplineMeshVertexFactory3AC0B9F92CD47E7EF3E93B4FA867A0A446F8DA47A747D67BD07743C1BEA1DE549F682B82EB7B9965A747D67BD07743C1BEA1DE549F682B82EB7B9965A747D67BD07743C1BEA1DE549F682B82EB7B9965_FLocalVertexFactory3AC0B9F92CD47E7EF3E93B4FA867A0A446F8DA4781418F8992AC49B8E2AFD31AF3B57530A23E085E81418F8992AC49B8E2AFD31AF3B57530A23E085E81418F8992AC49B8E2AFD31AF3B57530A23E085E_FLandscapeVertexFactory7EFCB848BE8D9BD91DD60CF06F8C2685693A8285B1684FBEF19B946A8709F4309D7CC4E5FC6044ADEBA49461CECB1EA5D21E2BF8918B91C7C3994DCEB1684FBEF19B946A8709F4309D7CC4E5FC6044ADB1684FBEF19B946A8709F4309D7CC4E5FC6044AD_FNiagaraSpriteVertexFactory08557A2684FD4A83F88E7195B7474C14AF896FBB5957CFEE095AEFFBA7F83F09F020F15CF6555718EFF166204144512228FF7A163011544EEF3FD2265957CFEE095AEFFBA7F83F09F020F15CF65557185957CFEE095AEFFBA7F83F09F020F15CF6555718_FGeometryCacheVertexVertexFactory7FBDA9D99060906BDB478BB7B8AC362C3BB8D1A576143182082C57C6F98756E7AE927ED26DD4479A76143182082C57C6F98756E7AE927ED26DD4479A_FLandscapeFixedGridVertexFactory7EFCB848BE8D9BD91DD60CF06F8C2685693A82853F5F45F5620EF6411E27211E3D675CEA50B38DFBEBA49461CECB1EA5D21E2BF8918B91C7C3994DCE3F5F45F5620EF6411E27211E3D675CEA50B38DFB3F5F45F5620EF6411E27211E3D675CEA50B38DFB25311014141444441444144414141414144444740101010101013145444414331440161512141424044442414141413131014344447443424144444444404444444444444444341414141424044444444444444442434141415101010110131313331213333414341414231413420444441414131313430414131010101510101030616161353434341464616161616161461213161616064343434344414444444451515101010113101053616161612100040404040404040404040404040404343434343444444444444444440404040404040444444444040404044444444444444443444444442414121444444424141414441444141414141414131313131313144434444444441414141414141414141414143434344444444444443444044414141414441414141414143414141444141414144444144414141413344442444444141414323414141414131414141424123434242414343434143414144414141313131343244414141244141313134444341414121212421243131444212222614114221012121212124344444444444404141510151015005151515161616161610101010101515140121213161616163631616147141313131433044101010101010101015101010101010101404444444404141315304451011010101010101010101010101010101010101060014040444140404212131313441410101010161010101010101310100024313131416161611010161646421413131312121212121212121414444444444414024444442121212121212121212121212131212121212121212121214121212121212121212143443141101313131316161616161616160231444444444341444141414142422121212121212121212131212121212121212121212121212121214444424242434343414144414141414144444444444444442144211013131313131316161616060101210101010151012101404444440434240444241413150044444444444434341013131332140304040404341444341433144334143314331434143414331433143314221414131443144121644444444440444644444404440444010151015101510110101010101010101010101010000140404441404021010101011010101010101040442424141313100044444444444444444444444444444444444444444444444444444444444444444444444444444044444444443414441414141434240431313131212131312222222201010101010110101010104044242414141210101010101010101414101015101010100040404040404040404040404040404040434343434343434444434343434040404040404043434343404040404444424244443444444444424221414144444442414141434141414141414131313131313141414443444444444141414141414141414141414343434444444444444344404441414141444141414141414341414144414141414444414141413141432144444444414121434341414131414141414122414343424241434343414341414441313131313144424441214144313131414444434121212121243131414101015151515151515151515101010101010101010151515151510151015101510151015101010101010101510161616161615101510151015101510151015101510151013131515151510151010151016161444151014451010161617161616143431013131313131313432422121314141410101010000000110000001300000013000000130000001300000013000000130000000C00000009000000140000000F0000001000000008000000090000000800000024000000100000001000000013000000090000000800000008000000100000001000000010000000100000000800000008000000080000001000000010000000CF000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001400000010000000080000000800000008000000100000000800000008000000080000000800000008000000080000001100000013000000130000001300000013000000130000001300000013000000130000000800000010000000110000000900000008000000090000000800000009000000100000000800000008000000130000000900000008000000090000000800000009000000080000000C000000090000000800000009000000090000000900000009000000090000000800000008000000080000000800000008000000130000001000000010000000100000001600000010000000100000001000000010000000090000000900000009000000090000000900000010000000100000001000000010000000080000001A00000014000000290000000D000000440000000B0000000B00000013000000130000000900000009000000090000001400000008000000100000000D0000000C00000010000000080000000800000029000000100000001000000010000000100000001000000010000000100000000900000009000000080000000800000008000000080000000D00000009000000090000000900000009000000090000000900000009000000090000000900000009000000090000000C000000080000000C00000013000000100000001000000010000000100000001000000010000000100000000D0000000F00000009000000080000000900000008000000090000000C000000080000001300000013000000260000000F000000120000000900000009000000090000000900000009000000100000001D0000001300000013000000130000001300000013000000090000000800000009000000080000000900000008000000090000000800000014000000140000000800000010000000090000000800000013000000310100001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000140000001000000010000000100000001000000009000000433AFC833894B7681A1D3DDBA35F7F5A9509A8990000000000000000000000000000000000000000EFE2B2BFD689FE76C1B7EF7C7E404AB24393F749_001_101_5;
+WorldGridMaterial-ES3_1-Default: MATSM_D2BE6101BBDD464FA4DA4FFD062CBE0E_GLSL_ES3_1_ANDROID_18794__r.MobileHDR_1_BC5N_NoCCBN_NoIris_DEV_SL_LWC2_PreExp_NoDBuf_NoVFog_NoUB_DXC1_VFO_SKYATM_SKYHF_gs0_VT-0-0-0-0_VED_Aniso-0_ComprOodle_Compr2_Lev6_ExclNonPipSh-0_LWC-2097152_933567634DB6FCC63A5C44EA751315CBC3EF5DDED_Num_ES3_1_FL_00000001_MFA_ffffffff_V_B6A0A753ED62499D8F30931E61FCAB05_0_DB3E993F4E2E98B305AD13B92D8C5DA5_44591F6EA1716702072847EA03BE3B65FD6959CC___TMobileBasePassPSFMobileDistanceFieldShadowsAndLQLightMapPolicyHDRLinear64Skylight0_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E0A4F15A1386D937A324EC11FBD342EBF2C480D7C5_TMobileBasePassPSFMobileDirectionalLightAndCSMPolicyHDRLinear640_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E08383C53003A7E3876CFE7662292C86B20CC86048_TMobileBasePassPSFMobileDistanceFieldShadowsLightMapAndCSMLightingPolicyHDRLinear64SkylightEnableLocalLights0_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E03876847F76B1CD05B99D280D20D645265C3A6F3F_TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect0_0_0F35CE7605567B2ED6CDE58DDC369B79ED30CF7CC207C1CA66ADE37BEA2C8C42C98158E8CFB62D5F7_TShadowDepthVSVertexShadowDepth_OutputDepthPositionOnly0_0_0B23B951509F54BD162933017CBB5C7B275731496E85635C7384567C33A7F5AB958B16D00D2D1687F_TMobileBasePassPSFMobileMovableDirectionalLightWithLightmapPolicyHDRLinear64Skylight0_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E0E1F4FF41C12EFFB6FCBB079EF0B25B021029D9F9_TMobileBasePassPSTLightMapPolicyLQHDRLinear640_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E03C204CF17F32661E12FD4A0B12DAA540EAAE45B1_TMobileBasePassPSFMobileMovableDirectionalLightWithLightmapPolicyHDRLinear640_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E0192012ADB9E0A04F63F36E2FB161C177FE19047E_TMobileBasePassPSFMobileDirectionalLightAndSHIndirectPolicyHDRLinear640_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E0EF3F4169A6B46318576352625EA91D01E6EDDFCE_TMobileBasePassPSFNoLightMapPolicyHDRLinear64EnableLocalLights0_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E0BB70D9EECE833EAEA7437EA71A7F9C87E424B500_TMobileBasePassPSFMobileDirectionalLightAndSHIndirectPolicyHDRLinear64Skylight0_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E0034BCAD751F9C1EF96AF3A64A79077E582F81310_TMobileBasePassPSFMobileDistanceFieldShadowsLightMapAndCSMLightingPolicyHDRLinear64EnableLocalLights0_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E050C177A616CC09EE2BA3BCE796A21CCDFB44C2C8_TMobileBasePassPSFMobileDirectionalLightCSMAndLightMapPolicyHDRLinear64EnableLocalLights0_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E075742AE1323105C4DF412D3D462D8BC8C743E184_TMobileBasePassVSFMobileMovableDirectionalLightWithLightmapPolicyHDRLinear640_0_0F07A6B90294E4FA2DC4C3277A94BBAC31EF3ACE7CE194698A51D74411C309E99CBFB7F14F9366252_TMobileBasePassPSFMobileDirectionalLightAndCSMPolicyHDRLinear64EnableLocalLights0_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E059CDA363A0DAF3A14E5A20018620CB9AE7F79189_TMobileBasePassVSFMobileDistanceFieldShadowsLightMapAndCSMLightingPolicyHDRLinear640_0_0F07A6B90294E4FA2DC4C3277A94BBAC31EF3ACE7AE300FADFAE9C069C309B6A4A7B6F4D467F2E71D_TMobileBasePassPSFMobileDirectionalLightCSMAndSHIndirectPolicyHDRLinear640_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E0BE344CC9D10567DDA75F9885BA76AFC2436EACB6_TShadowDepthVSVertexShadowDepth_OutputDepth0_0_0B23B951509F54BD162933017CBB5C7B2757314961A5182890594B56BC67E2A01419CF4A9F4E80B78_TMobileBasePassPSFNoLightMapPolicyHDRLinear64Skylight0_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E017F4600D881871A37C2FEEB441AFC5D70AA58DE7_TDepthOnlyVS<true>0_0_0EE8C2197EE6EDCDEE7FCA0DF48BF031D68B72958AFF1CFD347A89CD04D508E3DAE64DA25D12AAE3E_TMobileBasePassPSTLightMapPolicyLQHDRLinear64Skylight0_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E0075EB576B82A2AB305CF0FED76B2040474337E0F_TMobileBasePassPSFMobileDirectionalLightAndSHIndirectPolicyHDRLinear64EnableLocalLights0_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E035D5D0CAFB38DED165D0DEAC5B014CF0159FC969_TMobileBasePassPSFMobileDistanceFieldShadowsAndLQLightMapPolicyHDRLinear64SkylightEnableLocalLights0_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E0AFF217E65D6D5D6B0C4110C07160B4B80A504046_TMobileBasePassPSFMobileMovableDirectionalLightWithLightmapPolicyHDRLinear64EnableLocalLights0_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E0DC26780078884718EE0F62F4A220142FEF2F8176_TMobileBasePassPSFMobileMovableDirectionalLightWithLightmapPolicyHDRLinear64SkylightEnableLocalLights0_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E06CCDD45377F68BB6932B7069B9F400EEDD67F40E_TMobileBasePassVSFMobileDirectionalLightCSMAndLightMapPolicyHDRLinear640_0_0F07A6B90294E4FA2DC4C3277A94BBAC31EF3ACE76C7951EC2311211AB7F447258BD10800FA283BB4_TMobileBasePassPSFMobileDistanceFieldShadowsAndLQLightMapPolicyHDRLinear640_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E0C4E8926776E48252F2438491E72E9BD5B65568F6_TMobileBasePassPSFMobileMovableDirectionalLightCSMWithLightmapPolicyHDRLinear640_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E0B5668853781208126FF089C209E63C2E40ADFE6D_TMobileBasePassVSFMobileDistanceFieldShadowsAndLQLightMapPolicyHDRLinear640_0_0F07A6B90294E4FA2DC4C3277A94BBAC31EF3ACE73DA0F8E7B2B9B73CC19A771C9659CC844B3B7A6F_TMobileBasePassPSFMobileDirectionalLightAndCSMPolicyHDRLinear64Skylight0_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E0A468829A6651AFF58F0AE0183C8CCB754E7F6B08_TMobileBasePassPSFMobileDirectionalLightCSMAndSHIndirectPolicyHDRLinear64Skylight0_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E0EA4DD6CFE6C29C53336D23E2F3A9A6CE5005C88D_TMobileBasePassPSFMobileMovableDirectionalLightCSMWithLightmapPolicyHDRLinear64Skylight0_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E02CC22855591BEB48B903122D8E2DF6DEA064815B_FVelocityPS0_0_0E80FF200124C84614D3355A01138C443C20ED1770049112269A7BCBCC3085580059642AE0152C34F_TMobileBasePassPSFMobileDirectionalLightCSMAndSHIndirectPolicyHDRLinear64EnableLocalLights0_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E0B393D7B41B7F3AA839AB4E300697E09A4C4B6777_TMobileBasePassPSFMobileDirectionalLightCSMAndLightMapPolicyHDRLinear640_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E01A9C519F43CFF1362318DCEB8EA1BC26F5C1022E_TMobileBasePassPSTLightMapPolicyLQHDRLinear64EnableLocalLights0_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E0ADB6DE93483EAA35EAB406ADB94D784C0B7BFCFC_TMobileBasePassPSFMobileDirectionalLightCSMAndLightMapPolicyHDRLinear64SkylightEnableLocalLights0_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E0E3E37D4BA40232464DC180CDF0DCDD4946B0605A_TMobileBasePassPSFMobileDistanceFieldShadowsLightMapAndCSMLightingPolicyHDRLinear64Skylight0_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E061D0F85F249B7858B569555DD6BB833B5A2FBD9E_TMobileBasePassPSFMobileMovableDirectionalLightCSMWithLightmapPolicyHDRLinear64EnableLocalLights0_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E0CA1DB89E3CF7D552B956F377B44758297B6AEADC_TMobileBasePassVSTLightMapPolicyLQHDRLinear640_0_0F07A6B90294E4FA2DC4C3277A94BBAC31EF3ACE700322CB91D89B71CADDAF2D45A53C9E138BC3DBC_TMobileBasePassPSFMobileDirectionalLightAndCSMPolicyHDRLinear64SkylightEnableLocalLights0_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E09CD03804E36BBA66AC4229BE1B09A1EED58640F3_TMobileBasePassPSFMobileDistanceFieldShadowsLightMapAndCSMLightingPolicyHDRLinear640_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E07D478C71A23CC68C150D0FD37946EAB5314E0FB9_TMobileBasePassPSFNoLightMapPolicyHDRLinear64SkylightEnableLocalLights0_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E04A26D021C5EA08040DC8400661CDC3C7D9D423A6_TMobileBasePassVSFNoLightMapPolicyHDRLinear640_0_0F07A6B90294E4FA2DC4C3277A94BBAC31EF3ACE707B0C66A3CAC85543D60FCF1F0F14156952DF50F_TMobileBasePassPSFMobileDirectionalLightAndSHIndirectPolicyHDRLinear64SkylightEnableLocalLights0_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E04EFD310574FB40C1EAE95CDAA98DE75E9D40B921_TMobileBasePassPSFMobileDirectionalLightCSMAndLightMapPolicyHDRLinear64Skylight0_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E06337A21FC793270AB6D6DFD8AD41F5305CBBC7B3_TMobileBasePassVSFMobileDirectionalLightCSMAndSHIndirectPolicyHDRLinear640_0_0F07A6B90294E4FA2DC4C3277A94BBAC31EF3ACE702272D290A2D32C5ED4810D83374F8D4DF916DBA_TMobileBasePassPSFNoLightMapPolicyHDRLinear640_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E03650F7DD9753B8471BF78AD64C27828533B3B58D_TDepthOnlyVS<false>0_0_0076E7107B181E56CFE5D998062A4EFBD285FFBE8B769868CBFF7E6463FE4FF1B7AA6E03831D1EC46_TMobileBasePassPSTLightMapPolicyLQHDRLinear64SkylightEnableLocalLights0_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E0B65ECEA91BC40AD3253763FBE5E653F49F13F9DD_TMobileBasePassVSFMobileMovableDirectionalLightCSMWithLightmapPolicyHDRLinear640_0_0F07A6B90294E4FA2DC4C3277A94BBAC31EF3ACE790A38EE36194FF0689EA665A0E724F500D425C4C_FVelocityVS0_0_0E80FF200124C84614D3355A01138C443C20ED177B3B12C74A07B692B1CFE18D1E51BD8C189682129_TMobileBasePassVSFMobileDirectionalLightAndCSMPolicyHDRLinear640_0_0F07A6B90294E4FA2DC4C3277A94BBAC31EF3ACE7C02C6E4B26B695783509AFFA68B57AE3DB008FB1_TMobileBasePassPSFMobileDistanceFieldShadowsAndLQLightMapPolicyHDRLinear64EnableLocalLights0_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E01FC277E2C2F994EE106DE5B49BEA6061EE772663_TMobileBasePassPSFMobileDirectionalLightCSMAndSHIndirectPolicyHDRLinear64SkylightEnableLocalLights0_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E0DA25CCC21539AE4BA5494729000AFB45F71AC03B_TMobileBasePassVSFMobileDirectionalLightAndSHIndirectPolicyHDRLinear640_0_0F07A6B90294E4FA2DC4C3277A94BBAC31EF3ACE7A2922BBF63C20211F464929AB349906411B221FD_TMobileBasePassPSFMobileMovableDirectionalLightCSMWithLightmapPolicyHDRLinear64SkylightEnableLocalLights0_0_0F76B151A6E5E0E1A9D5267ACD25EB1293B2A54E06BBE3278027A95E4043370304B6CE19AB63B4E09_FGPUSpriteVertexFactoryA3E88D6828B9B2804150534FEEA32F11FB6DFF665C5BE91DA01DC2B25B1018F3EDA7A6FC7D1D30AEB9CA513CCBA4F1E3AF7D9556DD0F2FF45E951E1A_FNiagaraRibbonVertexFactory3598492A87A57859E43D720F9EEB3411C0818E6BA5C2BD7C8E1CB8C2C0438E13767AF67A0D5B5966DE03DD13CEAD2D60503F2AAC85D4762994EF4025A5C2BD7C8E1CB8C2C0438E13767AF67A0D5B5966A5C2BD7C8E1CB8C2C0438E13767AF67A0D5B5966_TGPUSkinAPEXClothVertexFactoryDefault8EE7410F1836AFF17631CF6D02AA8570048B0244BBEDF5F2F99060D3A4E705A02AFC0D4CFF550703_FParticleSpriteVertexFactoryA1C93675C823A39F27DA1DC081069B3377FA383CF99E1B0FB635933CEEAC41CF9441DF5EA4A994CA9DAE5A7C55936FD50BC3B20BD063C1832A4D4247_TGPUSkinVertexFactoryUnlimited8EE7410F1836AFF17631CF6D02AA8570048B0244180376A7171B50BD465E9983F32BCB5A07542FE7_FNiagaraMeshVertexFactory521893CCA136B0A1ADA642A3ECDB4433A5A0F0644B3A20E0CA93D5CA5A60C16EF2EB14EA073FC9571BD81B2CBA1F364F28A837532353718EB814537B4B3A20E0CA93D5CA5A60C16EF2EB14EA073FC9574B3A20E0CA93D5CA5A60C16EF2EB14EA073FC957_FParticleBeamTrailVertexFactory1FD3DE20FC7C70DBCB7D3A92E6D4270D314122F2378BBDDEC2CEAC35A309C357B38D702E7981D5D3_TGPUSkinVertexFactoryDefault8EE7410F1836AFF17631CF6D02AA8570048B0244180376A7171B50BD465E9983F32BCB5A07542FE7_TGPUSkinAPEXClothVertexFactoryUnlimited8EE7410F1836AFF17631CF6D02AA8570048B0244BBEDF5F2F99060D3A4E705A02AFC0D4CFF550703_FGeometryCollectionVertexFactory1D0025BCB65C020872FEA3CE98E571F6035D2E8849D716CAD02F0AC031CC93ACB2AFCB9C42E7DC4149D716CAD02F0AC031CC93ACB2AFCB9C42E7DC4149D716CAD02F0AC031CC93ACB2AFCB9C42E7DC41_FLandscapeXYOffsetVertexFactory086928918F703330953811A12761B5E6C801BCCDB1684FBEF19B946A8709F4309D7CC4E5FC6044ADEBA49461CECB1EA5D21E2BF8918B91C7C3994DCEB1684FBEF19B946A8709F4309D7CC4E5FC6044ADB1684FBEF19B946A8709F4309D7CC4E5FC6044AD_FMeshParticleVertexFactory782F7FE9A6D7A3CFB67B82C53153AACCC72C3709F773920348F231C490A74B1A551F8CE3ABF04791_FInstancedStaticMeshVertexFactory2790254909169F6E1F35D0FBC8F821F54153D941A163AB24C1DAF4D0703BC40B6B0C866D318AC9F8A163AB24C1DAF4D0703BC40B6B0C866D318AC9F8A163AB24C1DAF4D0703BC40B6B0C866D318AC9F8A163AB24C1DAF4D0703BC40B6B0C866D318AC9F8_FSplineMeshVertexFactory2790254909169F6E1F35D0FBC8F821F54153D941A747D67BD07743C1BEA1DE549F682B82EB7B9965A747D67BD07743C1BEA1DE549F682B82EB7B9965A747D67BD07743C1BEA1DE549F682B82EB7B9965_FLocalVertexFactory2790254909169F6E1F35D0FBC8F821F54153D94181418F8992AC49B8E2AFD31AF3B57530A23E085E81418F8992AC49B8E2AFD31AF3B57530A23E085E81418F8992AC49B8E2AFD31AF3B57530A23E085E_FLandscapeVertexFactory086928918F703330953811A12761B5E6C801BCCDB1684FBEF19B946A8709F4309D7CC4E5FC6044ADEBA49461CECB1EA5D21E2BF8918B91C7C3994DCEB1684FBEF19B946A8709F4309D7CC4E5FC6044ADB1684FBEF19B946A8709F4309D7CC4E5FC6044AD_FNiagaraSpriteVertexFactoryF62299ADFAE8C379E4716CBBA50B2FCEB850D5AF5957CFEE095AEFFBA7F83F09F020F15CF6555718EFF166204144512228FF7A163011544EEF3FD2265957CFEE095AEFFBA7F83F09F020F15CF65557185957CFEE095AEFFBA7F83F09F020F15CF6555718_FGeometryCacheVertexVertexFactoryBA413523B5FA483958AE7158EE4595AA438DAE9776143182082C57C6F98756E7AE927ED26DD4479A76143182082C57C6F98756E7AE927ED26DD4479A_FLandscapeFixedGridVertexFactory086928918F703330953811A12761B5E6C801BCCD3F5F45F5620EF6411E27211E3D675CEA50B38DFBEBA49461CECB1EA5D21E2BF8918B91C7C3994DCE3F5F45F5620EF6411E27211E3D675CEA50B38DFB3F5F45F5620EF6411E27211E3D675CEA50B38DFB25311014141444441444144414141414144444740101010101013145444414331440161512141424044442414141413131014344447443424144444444404444444444444444341414141424044444444444444442434141415101010110131313331213333414341414231413420444441414131313430414131010101510101030616161353434341464616161616161461213161616064343434344414444444451515101010113101053616161612100040404040404040404040404040404343434343444444444444444440404040404040444444444040404044444444444444443444444442414121444444424141414441444141414141414131313131313144434444444441414141414141414141414143434344444444444443444044414141414441414141414143414141444141414144444144414141413344442444444141414323414141414131414141424123434242414343434143414144414141313131343244414141244141313134444341414121212421243131444212222614114221012121212124344444444444404141510151015005151515161616161610101010101515140121213161616163631616147141313131433044101010101010101015101010101010101404444444404141315304451011010101010101010101010101010101010101060014040444140404212131313441410101010161010101010101310100024313131416161611010161646421413131312121212121212121414444444444414024444442121212121212121212121212131212121212121212121214121212121212121212143443141101313131316161616161616160231444444444341444141414142422121212121212121212131212121212121212121212121212121214444424242434343414144414141414144444444444444442144211013131313131316161616060101210101010151012101404444440434240444241413150044444444444434341013131332140304040404341444341433144334143314331434143414331433143314221414131443144121644444444440444644444404440444010151015101510110101010101010101010101010000140404441404021010101011010101010101040442424141313100044444444444444444444444444444444444444444444444444444444444444444444444444444044444444443414441414141434240431313131212131312222222201010101010110101010104044242414141210101010101010101414101015101010100040404040404040404040404040404040434343434343434444434343434040404040404043434343404040404444424244443444444444424221414144444442414141434141414141414131313131313141414443444444444141414141414141414141414343434444444444444344404441414141444141414141414341414144414141414444414141413141432144444444414121434341414131414141414122414343424241434343414341414441313131313144424441214144313131414444434121212121243131414101015151515151515151515101010101010101010151515151510151015101510151015101010101010101510161616161615101510151015101510151015101510151013131515151510151010151016161444151014451010161617161616143431013131313131313432422121314141410101010000000110000001300000013000000130000001300000013000000130000000C00000009000000140000000F0000001000000008000000090000000800000024000000100000001000000013000000090000000800000008000000100000001000000010000000100000000800000008000000080000001000000010000000CF000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001400000010000000080000000800000008000000100000000800000008000000080000000800000008000000080000001100000013000000130000001300000013000000130000001300000013000000130000000800000010000000110000000900000008000000090000000800000009000000100000000800000008000000130000000900000008000000090000000800000009000000080000000C000000090000000800000009000000090000000900000009000000090000000800000008000000080000000800000008000000130000001000000010000000100000001600000010000000100000001000000010000000090000000900000009000000090000000900000010000000100000001000000010000000080000001A00000014000000290000000D000000440000000B0000000B00000013000000130000000900000009000000090000001400000008000000100000000D0000000C00000010000000080000000800000029000000100000001000000010000000100000001000000010000000100000000900000009000000080000000800000008000000080000000D00000009000000090000000900000009000000090000000900000009000000090000000900000009000000090000000C000000080000000C00000013000000100000001000000010000000100000001000000010000000100000000D0000000F00000009000000080000000900000008000000090000000C000000080000001300000013000000260000000F000000120000000900000009000000090000000900000009000000100000001D0000001300000013000000130000001300000013000000090000000800000009000000080000000900000008000000090000000800000014000000140000000800000010000000090000000800000013000000310100001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000080000000800000008000000140000001000000010000000100000001000000009000000433AFC833894B7681A1D3DDBA35F7F5A9509A8990000000000000000000000000000000000000000EFE2B2BFD689FE76C1B7EF7C7E404AB24393F749_001_101_5;
+Cooked packages 848 Packages Remain 839 Total 1687
+Compiling System NiagaraSystem /Game/LevelsParameters/SlicingTesting/VFX/WaterSplashSystem.WaterSplashSystem took 0.770459 sec (time since issued), 1.267488 sec (combined shader worker time).
+Fetched compressed animation data for AnimSequence /Game/GameAssets/ButterFlySke_Sequence.ButterFlySke_Sequence
+[AssetLog] C:\Users\FranciscLegion\Desktop\MastersCoD\Content\Characters\Mannequin_UE4\Animations\Jog_Fwd.uasset: Package was saved with a custom version that is not present. Tag A7820CFB20A743598C542C149623CF50  Version 25
+[AssetLog] C:\Users\FranciscLegion\Desktop\MastersCoD\Content\Characters\Mannequin_UE4\Animations\Jog_Fwd.uasset: VerifyImport: Failed to find script package for import object 'Package /Script/AnimationData'
+
+
+Script Stack (0 frames) :
+
+appError called: Assertion failed: bRequiresModelPopulation || DataModel != nullptr || DataModelInterface != nullptr [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\Animation\AnimSequenceBase.cpp] [Line: 130] 
+Invalid Animation Sequence base state, no data model found past upgrade object version. AnimSequenceBase:/Game/Characters/Mannequin_UE4/Animations/Jog_Fwd.Jog_Fwd
+
+Windows GetLastError: The operation completed successfully. (0)
