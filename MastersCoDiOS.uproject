@@ -323,8 +323,6 @@
 		}
 	],
 	"TargetPlatforms": [
-		"Android",
-		"IOS",
-		"HoloLens"
+		"Android"
 	]
 }
