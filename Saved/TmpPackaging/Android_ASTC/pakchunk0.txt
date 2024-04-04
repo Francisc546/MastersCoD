@@ -405,13 +405,13 @@ C:\Users\FranciscLegion\Documents\GitHub\MastersCoD\Saved\Cooked\Android_ASTC\Ma
 C:\Users\FranciscLegion\Documents\GitHub\MastersCoD\Saved\Cooked\Android_ASTC\MastersCoDiOS\Content\Megascans\Surfaces\Wood_Veneer_Wall_Panels_vlskbcz\MI_Wood_Veneer_Wall_Panels_vlskbcz_1K
 C:\Users\FranciscLegion\Documents\GitHub\MastersCoD\Saved\Cooked\Android_ASTC\MastersCoDiOS\Content\Megascans\Surfaces\Wooden_Floor_wdipfjw\MI_Wooden_Floor
 C:\Users\FranciscLegion\Documents\GitHub\MastersCoD\Saved\Cooked\Android_ASTC\MastersCoDiOS\Content\Megascans\Surfaces\Wooden_Floor_wdipfjw\MI_Wooden_Floor_wdipfjw_1K
+C:\Users\FranciscLegion\Documents\GitHub\MastersCoD\Saved\Cooked\Android_ASTC\MastersCoDiOS\Content\Megascans\Surfaces\Wooden_Floor_wdipfjw\T_WoodenFloor_wdipfjw_1K_ORDp
 C:\Users\FranciscLegion\Documents\GitHub\MastersCoD\Saved\Cooked\Android_ASTC\MastersCoDiOS\Content\Movies\IntroductionVideoPT
 C:\Users\FranciscLegion\Documents\GitHub\MastersCoD\Saved\Cooked\Android_ASTC\MastersCoDiOS\Content\Movies\IntroVideoEN
 C:\Users\FranciscLegion\Documents\GitHub\MastersCoD\Saved\Cooked\Android_ASTC\MastersCoDiOS\Content\Movies\IntroVideoTexEN
 C:\Users\FranciscLegion\Documents\GitHub\MastersCoD\Saved\Cooked\Android_ASTC\MastersCoDiOS\Content\Movies\IntroVideoTexPT
 C:\Users\FranciscLegion\Documents\GitHub\MastersCoD\Saved\Cooked\Android_ASTC\MastersCoDiOS\Content\Movies\M_IntroVideoEN
 C:\Users\FranciscLegion\Documents\GitHub\MastersCoD\Saved\Cooked\Android_ASTC\MastersCoDiOS\Content\Movies\M_IntroVideoPT
-C:\Users\FranciscLegion\Documents\GitHub\MastersCoD\Saved\Cooked\Android_ASTC\MastersCoDiOS\Content\Telemetry\BPI\BPI_WidgetTrigger
 C:\Users\FranciscLegion\Documents\GitHub\MastersCoD\Saved\Cooked\Android_ASTC\MastersCoDiOS\Content\TopDown\Blueprints\BP_TopDownCharacter
 C:\Users\FranciscLegion\Documents\GitHub\MastersCoD\Saved\Cooked\Android_ASTC\MastersCoDiOS\Content\TopDown\Blueprints\BP_TopDownController
 C:\Users\FranciscLegion\Documents\GitHub\MastersCoD\Saved\Cooked\Android_ASTC\MastersCoDiOS\Content\TopDown\Blueprints\BP_TopDownGameMode

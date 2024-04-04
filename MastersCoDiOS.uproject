@@ -320,6 +320,18 @@
 		{
 			"Name": "CharacterAI",
 			"Enabled": false
+		},
+		{
+			"Name": "RenderDocPlugin",
+			"Enabled": false
+		},
+		{
+			"Name": "AnimationSharing",
+			"Enabled": false
+		},
+		{
+			"Name": "SignificanceManager",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
